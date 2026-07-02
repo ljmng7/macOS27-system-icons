@@ -7,11 +7,11 @@
     "orientation": {
       "start": {
         "x": 0.5,
-        "y": 0
+        "y": 0.0
       },
       "stop": {
         "x": 0.5,
-        "y": 1
+        "y": 1.0
       }
     },
     "fill-specializations": [
@@ -24,11 +24,11 @@
           "orientation": {
             "start": {
               "x": 0.5,
-              "y": 0
+              "y": 0.0
             },
             "stop": {
               "x": 0.5,
-              "y": 1
+              "y": 1.0
             }
           }
         }
@@ -43,11 +43,11 @@
           "orientation": {
             "start": {
               "x": 0.5,
-              "y": 0
+              "y": 0.0
             },
             "stop": {
               "x": 0.5,
-              "y": 1
+              "y": 1.0
             }
           }
         }

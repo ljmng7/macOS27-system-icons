@@ -10,11 +10,11 @@
     "orientation": {
       "start": {
         "x": 0.5,
-        "y": 0
+        "y": 0.0
       },
       "stop": {
         "x": 0.5,
-        "y": 1
+        "y": 1.0
       }
     },
     "fill-specializations": [
@@ -27,11 +27,11 @@
           "orientation": {
             "start": {
               "x": 0.5,
-              "y": 0
+              "y": 0.0
             },
             "stop": {
               "x": 0.5,
-              "y": 1
+              "y": 1.0
             }
           }
         }
@@ -46,11 +46,11 @@
           "orientation": {
             "start": {
               "x": 0.5,
-              "y": 0
+              "y": 0.0
             },
             "stop": {
               "x": 0.5,
-              "y": 1
+              "y": 1.0
             }
           }
         }
@@ -65,7 +65,7 @@
           "image-name": "3.magnifier 2.svg",
           "name": "3.magnifier 2",
           "position": {
-            "scale": 1.5,
+            "scale": 1.0,
             "translation-in-points": [
               512.0,
               0.0
@@ -83,7 +83,17 @@
                 "linear-gradient": [
                   "gray:1.00000,1.00000",
                   "gray:0.92500,1.00000"
-                ]
+                ],
+                "orientation": {
+                  "start": {
+                    "x": 0.5,
+                    "y": 0.0
+                  },
+                  "stop": {
+                    "x": 0.5,
+                    "y": 1.0
+                  }
+                }
               }
             }
           ],

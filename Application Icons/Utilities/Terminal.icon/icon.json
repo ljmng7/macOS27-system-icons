@@ -7,11 +7,11 @@
     "orientation": {
       "start": {
         "x": 0.5,
-        "y": 0
+        "y": 0.0
       },
       "stop": {
         "x": 0.5,
-        "y": 1
+        "y": 1.0
       }
     }
   },
@@ -22,25 +22,11 @@
         {
           "image-name": "terminal.solarium.underscore.svg",
           "name": "terminal.solarium.underscore",
-          "position": {
-            "scale": 1.00391,
-            "translation-in-points": [
-              0.0,
-              0.0
-            ]
-          },
           "glass": true
         },
         {
           "image-name": "terminal.solarium.prompt.svg",
           "name": "terminal.solarium.prompt",
-          "position": {
-            "scale": 1.00391,
-            "translation-in-points": [
-              0.0,
-              0.0
-            ]
-          },
           "glass": true
         }
       ],

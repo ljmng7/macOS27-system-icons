@@ -7,11 +7,11 @@
     "orientation": {
       "start": {
         "x": 0.5,
-        "y": 0
+        "y": 0.0
       },
       "stop": {
         "x": 0.5,
-        "y": 1
+        "y": 1.0
       }
     }
   },
@@ -23,7 +23,7 @@
           "image-name": "1.traffic.light.color.wide.svg",
           "name": "1.traffic.light.color.wide",
           "position": {
-            "scale": 1.5,
+            "scale": 1.0,
             "translation-in-points": [
               512.0,
               0.0
@@ -43,7 +43,7 @@
           "image-name": "2.traffic.light.gray.wide.svg",
           "name": "2.traffic.light.gray.wide",
           "position": {
-            "scale": 1.5,
+            "scale": 1.0,
             "translation-in-points": [
               512.0,
               0.0

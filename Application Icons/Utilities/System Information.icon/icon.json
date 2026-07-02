@@ -7,11 +7,11 @@
     "orientation": {
       "start": {
         "x": 0.5,
-        "y": 0
+        "y": 0.0
       },
       "stop": {
         "x": 0.5,
-        "y": 1
+        "y": 1.0
       }
     },
     "fill-specializations": [
@@ -24,11 +24,11 @@
           "orientation": {
             "start": {
               "x": 0.5,
-              "y": 0
+              "y": 0.0
             },
             "stop": {
               "x": 0.5,
-              "y": 1
+              "y": 1.0
             }
           }
         }
@@ -43,11 +43,11 @@
           "orientation": {
             "start": {
               "x": 0.5,
-              "y": 0
+              "y": 0.0
             },
             "stop": {
               "x": 0.5,
-              "y": 1
+              "y": 1.0
             }
           }
         }
@@ -61,13 +61,6 @@
         {
           "image-name": "7.pivot.svg",
           "name": "7.pivot",
-          "position": {
-            "scale": 1.00195,
-            "translation-in-points": [
-              0.0,
-              0.0
-            ]
-          },
           "fill-specializations": [
             {
               "appearance": "tinted",
@@ -98,7 +91,7 @@
           "image-name": "12.screw.stop4.svg",
           "name": "12.screw.stop4",
           "position": {
-            "scale": 1.08203,
+            "scale": 1.07992,
             "translation-in-points": [
               6.0,
               15.0
@@ -124,7 +117,7 @@
           "image-name": "11.screw.stop3.svg",
           "name": "11.screw.stop3",
           "position": {
-            "scale": 1.08203,
+            "scale": 1.07992,
             "translation-in-points": [
               -8.0,
               15.0
@@ -150,7 +143,7 @@
           "image-name": "10.screw.stop2b.svg",
           "name": "10.screw.stop2b",
           "position": {
-            "scale": 1.00195,
+            "scale": 1.0,
             "translation-in-points": [
               0.0,
               2.0
@@ -176,7 +169,7 @@
           "image-name": "10.screw.stop2.svg",
           "name": "10.screw.stop2",
           "position": {
-            "scale": 1.00195,
+            "scale": 1.0,
             "translation-in-points": [
               0.0,
               2.0
@@ -202,7 +195,7 @@
           "image-name": "9.screw.stop1.svg",
           "name": "9.screw.stop1",
           "position": {
-            "scale": 1.00195,
+            "scale": 1.0,
             "translation-in-points": [
               0.0,
               2.0
@@ -228,7 +221,7 @@
           "image-name": "8.screw.svg",
           "name": "8.screw",
           "position": {
-            "scale": 1.00195,
+            "scale": 1.0,
             "translation-in-points": [
               0.0,
               2.0
@@ -269,13 +262,6 @@
         {
           "image-name": "5.legs.svg",
           "name": "5.legs",
-          "position": {
-            "scale": 1.00195,
-            "translation-in-points": [
-              0.0,
-              0.0
-            ]
-          },
           "fill-specializations": [
             {
               "appearance": "dark",
@@ -295,13 +281,6 @@
         {
           "image-name": "5.grip.svg",
           "name": "5.grip",
-          "position": {
-            "scale": 1.00195,
-            "translation-in-points": [
-              0.0,
-              0.0
-            ]
-          },
           "fill-specializations": [
             {
               "appearance": "dark",
@@ -355,13 +334,6 @@
         {
           "image-name": "3.apple.logo.svg",
           "name": "3.apple.logo",
-          "position": {
-            "scale": 1.00195,
-            "translation-in-points": [
-              0.0,
-              0.0
-            ]
-          },
           "fill-specializations": [
             {
               "appearance": "dark",
@@ -381,13 +353,6 @@
         {
           "image-name": "2.chip.top.svg",
           "name": "2.chip.top",
-          "position": {
-            "scale": 1.00195,
-            "translation-in-points": [
-              0.0,
-              0.0
-            ]
-          },
           "fill-specializations": [
             {
               "appearance": "dark",
