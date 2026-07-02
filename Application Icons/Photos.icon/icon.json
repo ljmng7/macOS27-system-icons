@@ -1,0 +1,534 @@
+{
+  "features": [
+    "refractivity",
+    "specular-location"
+  ],
+  "fill": {
+    "linear-gradient": [
+      "gray:1.00000,1.00000",
+      "gray:0.92500,1.00000"
+    ],
+    "orientation": {
+      "start": {
+        "x": 0.5,
+        "y": 0
+      },
+      "stop": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "fill-specializations": [
+      {
+        "value": {
+          "linear-gradient": [
+            "gray:1.00000,1.00000",
+            "gray:0.92500,1.00000"
+          ],
+          "orientation": {
+            "start": {
+              "x": 0.5,
+              "y": 0
+            },
+            "stop": {
+              "x": 0.5,
+              "y": 1
+            }
+          }
+        }
+      },
+      {
+        "appearance": "dark",
+        "value": {
+          "linear-gradient": [
+            "gray:0.19200,1.00000",
+            "gray:0.07800,1.00000"
+          ],
+          "orientation": {
+            "start": {
+              "x": 0.5,
+              "y": 0
+            },
+            "stop": {
+              "x": 0.5,
+              "y": 1
+            }
+          }
+        }
+      }
+    ]
+  },
+  "groups": [
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "2.flower1.svg",
+          "name": "2.flower1",
+          "fill-specializations": [
+            {
+              "value": {
+                "solid": "display-p3:0.98800,0.57700,0.14100,1.00000"
+              }
+            },
+            {
+              "appearance": "dark",
+              "value": {
+                "solid": "display-p3:1.00000,0.72500,0.00000,1.00000"
+              }
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "gray:1.00000,1.00000"
+              }
+            }
+          ],
+          "opacity-specializations": [
+            {
+              "value": 1
+            },
+            {
+              "appearance": "dark",
+              "value": 0.77
+            },
+            {
+              "appearance": "tinted",
+              "value": 0.5
+            }
+          ],
+          "glass": true
+        },
+        {
+          "image-name": "6.flower5.svg",
+          "name": "6.flower5",
+          "fill-specializations": [
+            {
+              "value": {
+                "solid": "display-p3:0.26700,0.68200,0.96100,1.00000"
+              }
+            },
+            {
+              "appearance": "dark",
+              "value": {
+                "solid": "display-p3:0.00000,0.74500,1.00000,1.00000"
+              }
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "gray:1.00000,1.00000"
+              }
+            }
+          ],
+          "opacity-specializations": [
+            {
+              "value": 1
+            },
+            {
+              "appearance": "dark",
+              "value": 0.77
+            },
+            {
+              "appearance": "tinted",
+              "value": 0.5
+            }
+          ],
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.2
+      },
+      "blend-mode-specializations": [
+        {
+          "value": "multiply"
+        },
+        {
+          "appearance": "dark",
+          "value": "hard-light"
+        },
+        {
+          "appearance": "tinted",
+          "value": "plus-lighter"
+        }
+      ],
+      "lighting": "individual",
+      "specular-specializations": [
+        {
+          "value": "inside"
+        },
+        {
+          "appearance": "tinted",
+          "value": "outside"
+        }
+      ],
+      "translucency-specializations": [
+        {
+          "value": {
+            "enabled": true,
+            "value": 0
+          }
+        },
+        {
+          "appearance": "tinted",
+          "value": {
+            "enabled": true,
+            "value": 0.4
+          }
+        }
+      ],
+      "refractivity": {
+        "enabled": true,
+        "strength": 0.23,
+        "depth": 0.14
+      }
+    },
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "9.flower8.svg",
+          "name": "9.flower8",
+          "fill-specializations": [
+            {
+              "value": {
+                "solid": "display-p3:1.00000,0.38400,0.38000,1.00000"
+              }
+            },
+            {
+              "appearance": "dark",
+              "value": {
+                "solid": "display-p3:0.97900,0.58400,0.55200,1.00000"
+              }
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "gray:1.00000,1.00000"
+              }
+            }
+          ],
+          "opacity-specializations": [
+            {
+              "value": 1
+            },
+            {
+              "appearance": "dark",
+              "value": 0.77
+            },
+            {
+              "appearance": "tinted",
+              "value": 0.5
+            }
+          ],
+          "glass": true
+        },
+        {
+          "image-name": "5.flower4.svg",
+          "name": "5.flower4",
+          "fill-specializations": [
+            {
+              "value": {
+                "solid": "display-p3:0.34300,0.83400,0.50900,1.00000"
+              }
+            },
+            {
+              "appearance": "dark",
+              "value": {
+                "solid": "display-p3:0.35900,0.90200,0.77000,1.00000"
+              }
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "gray:1.00000,1.00000"
+              }
+            }
+          ],
+          "opacity-specializations": [
+            {
+              "value": 1
+            },
+            {
+              "appearance": "dark",
+              "value": 0.77
+            },
+            {
+              "appearance": "tinted",
+              "value": 0.5
+            }
+          ],
+          "glass": true
+        },
+        {
+          "image-name": "3.flower2.svg",
+          "name": "3.flower2",
+          "fill-specializations": [
+            {
+              "value": {
+                "solid": "display-p3:0.98400,0.81600,0.22000,1.00000"
+              }
+            },
+            {
+              "appearance": "dark",
+              "value": {
+                "solid": "srgb:1.00000,0.85100,0.37300,1.00000"
+              }
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "gray:1.00000,1.00000"
+              }
+            }
+          ],
+          "opacity-specializations": [
+            {
+              "value": 1
+            },
+            {
+              "appearance": "dark",
+              "value": 0.77
+            },
+            {
+              "appearance": "tinted",
+              "value": 0.5
+            }
+          ],
+          "glass": true
+        },
+        {
+          "image-name": "7.flower6.svg",
+          "name": "7.flower6",
+          "fill-specializations": [
+            {
+              "value": {
+                "solid": "display-p3:0.62000,0.55700,0.87500,1.00000"
+              }
+            },
+            {
+              "appearance": "dark",
+              "value": {
+                "solid": "display-p3:0.83600,0.64100,1.00000,1.00000"
+              }
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "gray:1.00000,1.00000"
+              }
+            }
+          ],
+          "opacity-specializations": [
+            {
+              "value": 1
+            },
+            {
+              "appearance": "dark",
+              "value": 0.77
+            },
+            {
+              "appearance": "tinted",
+              "value": 0.5
+            }
+          ],
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.2
+      },
+      "blend-mode-specializations": [
+        {
+          "value": "multiply"
+        },
+        {
+          "appearance": "dark",
+          "value": "hard-light"
+        },
+        {
+          "appearance": "tinted",
+          "value": "plus-lighter"
+        }
+      ],
+      "lighting": "individual",
+      "specular-specializations": [
+        {
+          "value": "inside"
+        },
+        {
+          "appearance": "tinted",
+          "value": "outside"
+        }
+      ],
+      "translucency-specializations": [
+        {
+          "value": {
+            "enabled": true,
+            "value": 0
+          }
+        },
+        {
+          "appearance": "tinted",
+          "value": {
+            "enabled": true,
+            "value": 0.4
+          }
+        }
+      ],
+      "refractivity": {
+        "enabled": true,
+        "strength": 0.23,
+        "depth": 0.14
+      },
+      "opacity-specializations": [
+        {
+          "value": 0.95
+        },
+        {
+          "appearance": "dark",
+          "value": 1
+        },
+        {
+          "appearance": "tinted",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "8.flower7.svg",
+          "name": "8.flower7",
+          "fill-specializations": [
+            {
+              "value": {
+                "solid": "display-p3:0.96700,0.45600,0.69200,1.00000"
+              }
+            },
+            {
+              "appearance": "dark",
+              "value": {
+                "solid": "display-p3:0.98000,0.60900,0.83800,1.00000"
+              }
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "gray:1.00000,1.00000"
+              }
+            }
+          ],
+          "opacity-specializations": [
+            {
+              "value": 1
+            },
+            {
+              "appearance": "dark",
+              "value": 0.77
+            },
+            {
+              "appearance": "tinted",
+              "value": 0.5
+            }
+          ],
+          "glass": true
+        },
+        {
+          "image-name": "4.flower3.svg",
+          "name": "4.flower3",
+          "fill-specializations": [
+            {
+              "value": {
+                "solid": "display-p3:0.62400,0.84300,0.21200,1.00000"
+              }
+            },
+            {
+              "appearance": "dark",
+              "value": {
+                "solid": "srgb:0.73900,0.92000,0.37100,1.00000"
+              }
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "gray:1.00000,1.00000"
+              }
+            }
+          ],
+          "opacity-specializations": [
+            {
+              "value": 1
+            },
+            {
+              "appearance": "dark",
+              "value": 0.77
+            },
+            {
+              "appearance": "tinted",
+              "value": 0.5
+            }
+          ],
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.2
+      },
+      "blend-mode-specializations": [
+        {
+          "value": "multiply"
+        },
+        {
+          "appearance": "dark",
+          "value": "hard-light"
+        },
+        {
+          "appearance": "tinted",
+          "value": "plus-lighter"
+        }
+      ],
+      "lighting": "individual",
+      "specular-specializations": [
+        {
+          "value": "inside"
+        },
+        {
+          "appearance": "tinted",
+          "value": "outside"
+        }
+      ],
+      "translucency-specializations": [
+        {
+          "value": {
+            "enabled": true,
+            "value": 0
+          }
+        },
+        {
+          "appearance": "tinted",
+          "value": {
+            "enabled": true,
+            "value": 0.4
+          }
+        }
+      ],
+      "refractivity": {
+        "enabled": true,
+        "strength": 0.1,
+        "depth": 0.18
+      }
+    }
+  ],
+  "supported-platforms": {
+    "circles": [
+      "watchOS"
+    ],
+    "squares": "shared"
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "fill": {
+    "linear-gradient": [
+      "gray:1.00000,1.00000",
+      "gray:0.92500,1.00000"
+    ],
+    "orientation": {
+      "start": {
+        "x": 0.5,
+        "y": 0
+      },
+      "stop": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "fill-specializations": [
+      {
+        "value": {
+          "linear-gradient": [
+            "gray:1.00000,1.00000",
+            "gray:0.92500,1.00000"
+          ],
+          "orientation": {
+            "start": {
+              "x": 0.5,
+              "y": 0
+            },
+            "stop": {
+              "x": 0.5,
+              "y": 1
+            }
+          }
+        }
+      },
+      {
+        "appearance": "dark",
+        "value": {
+          "linear-gradient": [
+            "gray:0.19200,1.00000",
+            "gray:0.07800,1.00000"
+          ],
+          "orientation": {
+            "start": {
+              "x": 0.5,
+              "y": 0
+            },
+            "stop": {
+              "x": 0.5,
+              "y": 1
+            }
+          }
+        }
+      }
+    ]
+  },
+  "groups": [
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "6.eyedropper.handle.top.svg",
+          "name": "6.eyedropper.handle.top",
+          "fill-specializations": [
+            {
+              "appearance": "dark",
+              "value": {
+                "solid": "display-p3:1.00000,1.00000,1.00000,1.00000"
+              }
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "srgb:1.00000,1.00000,1.00000,1.00000"
+              }
+            }
+          ],
+          "blend-mode-specializations": [
+            {
+              "value": "normal"
+            },
+            {
+              "appearance": "dark",
+              "value": "screen"
+            }
+          ],
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.5
+      },
+      "blend-mode": "normal",
+      "lighting": "individual",
+      "specular": true,
+      "translucency": {
+        "enabled": true,
+        "value": 0.4
+      }
+    },
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "5.eyedropper.color.svg",
+          "name": "5.eyedropper.color",
+          "fill-specializations": [
+            {
+              "value": {
+                "solid": "display-p3:1.00000,0.23100,0.04700,1.00000"
+              }
+            },
+            {
+              "appearance": "dark",
+              "value": {
+                "solid": "display-p3:1.00000,0.27800,0.00000,1.00000"
+              }
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "display-p3:1.00000,1.00000,1.00000,1.00000"
+              }
+            }
+          ],
+          "opacity-specializations": [
+            {
+              "value": 1
+            },
+            {
+              "appearance": "dark",
+              "value": 0.8
+            }
+          ],
+          "glass": true
+        },
+        {
+          "image-name": "4.eyedropper.glass.svg",
+          "name": "4.eyedropper.glass",
+          "fill-specializations": [
+            {
+              "value": {
+                "solid": "srgb:0.39000,0.92000,1.00000,1.00000"
+              }
+            },
+            {
+              "appearance": "dark",
+              "value": {
+                "solid": "display-p3:0.45900,0.86200,1.00000,1.00000"
+              }
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "display-p3:1.00000,1.00000,1.00000,1.00000"
+              }
+            }
+          ],
+          "opacity-specializations": [
+            {
+              "value": 1
+            },
+            {
+              "appearance": "dark",
+              "value": 0.4
+            },
+            {
+              "appearance": "tinted",
+              "value": 0.35
+            }
+          ],
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.5
+      },
+      "blend-mode-specializations": [
+        {
+          "value": "plus-darker"
+        },
+        {
+          "appearance": "dark",
+          "value": "screen"
+        },
+        {
+          "appearance": "tinted",
+          "value": "normal"
+        }
+      ],
+      "lighting": "combined",
+      "specular": true,
+      "translucency": {
+        "enabled": true,
+        "value": 0.2
+      },
+      "opacity-specializations": [
+        {
+          "value": 0.75
+        },
+        {
+          "appearance": "dark",
+          "value": 1
+        },
+        {
+          "appearance": "tinted",
+          "value": 1
+        }
+      ],
+      "blur-material": 0.25
+    },
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "3.circle.dropper.intersection.svg",
+          "name": "3.circle.dropper.intersection",
+          "fill-specializations": [
+            {
+              "appearance": "dark",
+              "value": {
+                "solid": "srgb:1.00000,0.72200,0.46300,1.00000"
+              }
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "display-p3:1.00000,1.00000,1.00000,1.00000"
+              }
+            }
+          ],
+          "glass": true
+        },
+        {
+          "image-name": "15_circle.svg",
+          "name": "15_circle",
+          "fill-specializations": [
+            {
+              "value": {
+                "solid": "display-p3:1.00000,0.81900,0.00000,1.00000"
+              }
+            },
+            {
+              "appearance": "dark",
+              "value": {
+                "solid": "display-p3:0.94700,0.77600,0.00000,1.00000"
+              }
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "gray:0.85000,1.00000"
+              }
+            }
+          ],
+          "glass": true
+        },
+        {
+          "image-name": "14_circle.svg",
+          "name": "14_circle",
+          "fill-specializations": [
+            {
+              "value": {
+                "solid": "display-p3:1.00000,0.72900,0.00000,1.00000"
+              }
+            },
+            {
+              "appearance": "dark",
+              "value": {
+                "solid": "display-p3:0.94800,0.69100,0.00000,1.00000"
+              }
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "gray:0.70000,1.00000"
+              }
+            }
+          ],
+          "glass": true
+        },
+        {
+          "image-name": "13_circle.svg",
+          "name": "13_circle",
+          "fill-specializations": [
+            {
+              "value": {
+                "solid": "display-p3:1.00000,0.62700,0.21200,1.00000"
+              }
+            },
+            {
+              "appearance": "dark",
+              "value": {
+                "solid": "display-p3:0.94600,0.59400,0.20000,1.00000"
+              }
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "gray:0.55000,1.00000"
+              }
+            }
+          ],
+          "glass": true
+        },
+        {
+          "image-name": "12_circle.svg",
+          "name": "12_circle",
+          "fill-specializations": [
+            {
+              "value": {
+                "solid": "display-p3:1.00000,0.47800,0.08200,1.00000"
+              }
+            },
+            {
+              "appearance": "dark",
+              "value": {
+                "solid": "display-p3:0.94600,0.45300,0.07800,1.00000"
+              }
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "gray:0.45000,1.00000"
+              }
+            }
+          ],
+          "glass": true
+        },
+        {
+          "image-name": "11_circle.svg",
+          "name": "11_circle",
+          "fill-specializations": [
+            {
+              "value": {
+                "solid": "display-p3:1.00000,0.40000,0.00000,1.00000"
+              }
+            },
+            {
+              "appearance": "dark",
+              "value": {
+                "solid": "display-p3:0.94900,0.37900,0.00000,1.00000"
+              }
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "gray:0.35000,1.00000"
+              }
+            }
+          ],
+          "glass": true
+        },
+        {
+          "image-name": "10_circle.svg",
+          "name": "10_circle",
+          "fill-specializations": [
+            {
+              "value": {
+                "solid": "display-p3:1.00000,0.23100,0.04700,1.00000"
+              }
+            },
+            {
+              "appearance": "dark",
+              "value": {
+                "solid": "display-p3:0.95300,0.23200,0.00000,1.00000"
+              }
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "gray:0.30000,1.00000"
+              }
+            }
+          ],
+          "glass": true
+        },
+        {
+          "image-name": "9_circle.svg",
+          "name": "9_circle",
+          "fill-specializations": [
+            {
+              "value": {
+                "solid": "display-p3:1.00000,0.22500,0.20700,1.00000"
+              }
+            },
+            {
+              "appearance": "dark",
+              "value": {
+                "solid": "display-p3:0.95200,0.21400,0.19700,1.00000"
+              }
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "gray:0.35000,1.00000"
+              }
+            }
+          ],
+          "glass": true
+        },
+        {
+          "image-name": "8_circle.svg",
+          "name": "8_circle",
+          "fill-specializations": [
+            {
+              "value": {
+                "solid": "display-p3:1.00000,0.29200,0.32700,1.00000"
+              }
+            },
+            {
+              "appearance": "dark",
+              "value": {
+                "solid": "display-p3:0.95200,0.24400,0.29500,1.00000"
+              }
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "gray:0.45000,1.00000"
+              }
+            }
+          ],
+          "glass": true
+        },
+        {
+          "image-name": "7_circle.svg",
+          "name": "7_circle",
+          "fill-specializations": [
+            {
+              "value": {
+                "solid": "display-p3:1.00000,0.36900,0.46100,1.00000"
+              }
+            },
+            {
+              "appearance": "dark",
+              "value": {
+                "solid": "display-p3:0.95100,0.32800,0.38000,1.00000"
+              }
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "gray:0.55000,1.00000"
+              }
+            }
+          ],
+          "glass": true
+        },
+        {
+          "image-name": "6_circle.svg",
+          "name": "6_circle",
+          "fill-specializations": [
+            {
+              "value": {
+                "solid": "display-p3:1.00000,0.46300,0.65900,1.00000"
+              }
+            },
+            {
+              "appearance": "dark",
+              "value": {
+                "solid": "display-p3:0.94900,0.43900,0.62500,1.00000"
+              }
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "gray:0.70000,1.00000"
+              }
+            }
+          ],
+          "glass": true
+        },
+        {
+          "image-name": "5_circle.svg",
+          "name": "5_circle",
+          "fill-specializations": [
+            {
+              "value": {
+                "solid": "display-p3:0.99600,0.58000,0.78400,1.00000"
+              }
+            },
+            {
+              "appearance": "dark",
+              "value": {
+                "solid": "display-p3:0.95300,0.55500,0.75000,1.00000"
+              }
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "gray:0.85000,1.00000"
+              }
+            }
+          ],
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.3
+      },
+      "blend-mode": "normal",
+      "lighting": "individual",
+      "specular": true,
+      "translucency": {
+        "enabled": true,
+        "value": 0.25
+      }
+    }
+  ],
+  "supported-platforms": {
+    "circles": [
+      "watchOS"
+    ],
+    "squares": "shared"
+  }
+}

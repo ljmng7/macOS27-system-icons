@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 361-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+ <defs>
+  <linearGradient id="SVGID_00000011021000981443992640000004689894509468334773_" x1="448.004" y1="1024" x2="448.004" y2="-2.78e-05" gradientUnits="userSpaceOnUse">
+   <stop offset="0.0006054" stop-color="#949597" stop-opacity="1"/>
+   <stop offset="1" stop-color="#c5c9ca" stop-opacity="1"/>
+  </linearGradient>
+  <clipPath id="SVGID_00000048476441464397918610000009180218554133814181_">
+   <rect height="1024.01" style="overflow:visible;" width="1024" x="0" y="-2.78e-05"/>
+  </clipPath>
+  <clipPath id="SVGID_00000095324813617430544900000007054732698588096145_">
+   <rect height="341.98" style="overflow:visible;" width="127.992" x="895.948" y="-0.470161"/>
+  </clipPath>
+  <clipPath id="SVGID_00000107568589034943261990000014962393517123328642_">
+   <rect height="341.98" style="overflow:visible;" width="127.993" x="895.948" y="-0.470002"/>
+  </clipPath>
+ </defs>
+ <g/>
+ <g id="background.gradient">
+  <g>
+   <g clip-path="url(#SVGID_00000048476441464397918610000009180218554133814181_)" opacity="0.95" style="opacity:0.95;clip-path:url(#SVGID_00000048476441464397918610000009180218554133814181_);enable-background:new    ;">
+    <g>
+     <g clip-path="url(#SVGID_00000107568589034943261990000014962393517123328642_)" style="clip-path:url(#SVGID_00000107568589034943261990000014962393517123328642_);"/>
+    </g>
+   </g>
+  </g>
+  <rect fill="url(#SVGID_00000011021000981443992640000004689894509468334773_)" height="1024" style="fill:url(#SVGID_00000011021000981443992640000004689894509468334773_);" width="896.008" x="0" y="-2.78e-05"/>
+ </g>
+</svg>

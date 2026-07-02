@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 361-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+ <g/>
+ <g id="blue_bar">
+  <path d="M541.486 914.816c0 16.5684-13.4316 30-30 30s-30-13.4316-30-30c0-13.9838 9.56799-25.7328 22.5143-29.0582V139.874c-12.9463-3.32544-22.5143-15.0745-22.5143-29.0582c0-16.5684 13.4316-30 30-30s30 13.4316 30 30c0 13.6098-9.0658 25.096-21.4857 28.7668v746.466C532.42 889.72 541.486 901.206 541.486 914.816z" fill="#5497F7" style="fill:#5497F7;"/>
+ </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 361-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1026 1026">
+ <g/>
+ <g id="grip">
+  <g>
+   <path d="M513 281.139c-49.1093 0-89.0628-39.9535-89.0628-89.0628S463.891 103.013 513 103.013s89.0628 39.9535 89.0628 89.0628S562.109 281.139 513 281.139zM513 126.619c-36.0933 0-65.4575 29.3642-65.4575 65.4575S476.907 257.534 513 257.534s65.4575-29.3642 65.4575-65.4575S549.093 126.619 513 126.619z" fill="#AFBEC4" style="fill:#AFBEC4;"/>
+  </g>
+ </g>
+</svg>

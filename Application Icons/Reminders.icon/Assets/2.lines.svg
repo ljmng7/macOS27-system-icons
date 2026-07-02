@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 361-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+ <g/>
+ <g id="lines">
+  <g>
+   <path d="M890 778H390c-5.52286 0-10-4.47717-10-10l0 0c0-5.52283 4.47714-10 10-10h500c5.52283 0 10 4.47717 10 10l0 0C900 773.523 895.523 778 890 778z" fill="#C8C8C8" style="fill:#C8C8C8;"/>
+  </g>
+  <g>
+   <path d="M890 522H390c-5.52286 0-10-4.47717-10-10l0 0c0-5.52286 4.47714-10 10-10h500c5.52283 0 10 4.47714 10 10l0 0C900 517.523 895.523 522 890 522z" fill="#C8C8C8" style="fill:#C8C8C8;"/>
+  </g>
+  <g>
+   <path d="M890 266H390c-5.52286 0-10-4.47714-10-10v-1.53e-05C380 250.477 384.477 246 390 246h500c5.52283 0 10 4.47714 10 9.99998V256C900 261.523 895.523 266 890 266z" fill="#C8C8C8" style="fill:#C8C8C8;"/>
+  </g>
+ </g>
+</svg>

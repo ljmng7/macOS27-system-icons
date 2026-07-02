@@ -1,0 +1,129 @@
+{
+  "features": [
+    "refractivity",
+    "specular-location"
+  ],
+  "fill": {
+    "linear-gradient": [
+      "gray:0.19200,1.00000",
+      "gray:0.07800,1.00000"
+    ],
+    "orientation": {
+      "start": {
+        "x": 0.5,
+        "y": 0
+      },
+      "stop": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "groups": [
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "3.yellowplus.svg",
+          "name": "3.yellowplus",
+          "fill-specializations": [
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "gray:0.90400,1.00000"
+              }
+            }
+          ],
+          "glass": false
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.5
+      },
+      "blend-mode": "normal",
+      "lighting": "individual",
+      "specular": "outside",
+      "translucency": {
+        "enabled": true,
+        "value": 0.5
+      }
+    },
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "4.magnifier.svg",
+          "name": "4.magnifier",
+          "glass": true
+        },
+        {
+          "image-name": "3.lens.tint.svg",
+          "name": "3.lens.tint",
+          "fill": {
+            "linear-gradient": [
+              "display-p3:1.00000,0.79200,0.00000,0.16000",
+              "srgb:1.00000,0.00000,0.00000,0.02000"
+            ]
+          },
+          "opacity": 0.3,
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.5
+      },
+      "blend-mode": "normal",
+      "lighting": "individual",
+      "specular": true,
+      "translucency": {
+        "enabled": true,
+        "value": 0
+      },
+      "refractivity": {
+        "enabled": true,
+        "strength": 0.5,
+        "depth": 0
+      }
+    },
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "3.lens.tint.svg",
+          "name": "3.lens.tint",
+          "fill": {
+            "linear-gradient": [
+              "srgb:1.00000,0.97600,0.00000,0.08000",
+              "display-p3:0.79000,0.83200,0.00000,0.16000"
+            ]
+          },
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 1
+      },
+      "blend-mode": "normal",
+      "lighting": "individual",
+      "specular": true,
+      "translucency": {
+        "enabled": false,
+        "value": 1
+      },
+      "refractivity": {
+        "enabled": true,
+        "strength": -0.4,
+        "depth": 0.05
+      }
+    }
+  ],
+  "supported-platforms": {
+    "circles": [
+      "watchOS"
+    ],
+    "squares": "shared"
+  }
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 361-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2048 1024">
+ <g/>
+ <g id="traffic.light.gray.wide">
+  <g>
+   <g>
+    <circle cx="1263.3" cy="300.559" fill="#D0D0D0" r="12" style="fill:#D0D0D0;"/>
+    <circle cx="1226.83" cy="300.559" fill="#D0D0D0" r="12" style="fill:#D0D0D0;"/>
+    <circle cx="1189.28" cy="300.559" fill="#D0D0D0" r="12" style="fill:#D0D0D0;"/>
+    <circle cx="1615.39" cy="228.772" fill="#D0D0D0" r="12" style="fill:#D0D0D0;"/>
+    <circle cx="1578.92" cy="228.772" fill="#D0D0D0" r="12" style="fill:#D0D0D0;"/>
+    <circle cx="1541.36" cy="228.772" fill="#D0D0D0" r="12" style="fill:#D0D0D0;"/>
+   </g>
+   <g>
+    <circle cx="631.293" cy="300.559" fill="#D0D0D0" r="12" style="fill:#D0D0D0;"/>
+    <circle cx="667.759" cy="300.559" fill="#D0D0D0" r="12" style="fill:#D0D0D0;"/>
+    <circle cx="705.317" cy="300.559" fill="#D0D0D0" r="12" style="fill:#D0D0D0;"/>
+    <circle cx="165.346" cy="228.772" fill="#D0D0D0" r="12" style="fill:#D0D0D0;"/>
+    <circle cx="201.813" cy="228.772" fill="#D0D0D0" r="12" style="fill:#D0D0D0;"/>
+    <circle cx="239.37" cy="228.772" fill="#D0D0D0" r="12" style="fill:#D0D0D0;"/>
+   </g>
+  </g>
+ </g>
+</svg>

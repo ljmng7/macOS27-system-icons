@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 361-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+ <defs>
+  <radialGradient id="SVGID_1_" cx="513.165" cy="-1546.91" r="368.669" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 -1 0 -1022)">
+   <stop offset="0.302138" stop-color="#173de8" stop-opacity="1"/>
+   <stop offset="0.408893" stop-color="#2859e8" stop-opacity="1"/>
+   <stop offset="0.563125" stop-color="#3d7cea" stop-opacity="1"/>
+   <stop offset="0.786662" stop-color="#4f98c3" stop-opacity="1"/>
+   <stop offset="1" stop-color="#5eb1a3" stop-opacity="1"/>
+  </radialGradient>
+ </defs>
+ <g/>
+ <g id="radar">
+  <g id="radar_00000147912150882812311610000010193814757587583116_">
+   <g>
+    <path clip-rule="evenodd" d="M512 512l203.15-356.207C655.263 121.565 585.917 102 512 102s-143.263 19.565-203.15 53.7925L512 512z" fill="url(#SVGID_1_)" fill-rule="evenodd" style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_1_);"/>
+   </g>
+  </g>
+ </g>
+</svg>

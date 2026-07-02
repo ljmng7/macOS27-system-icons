@@ -1,0 +1,190 @@
+{
+  "features": [
+    "refractivity",
+    "specular-location"
+  ],
+  "fill": {
+    "linear-gradient": [
+      "gray:0.19200,1.00000",
+      "gray:0.07800,1.00000"
+    ],
+    "orientation": {
+      "start": {
+        "x": 0.5,
+        "y": 0
+      },
+      "stop": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "groups": [
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "stars.png",
+          "name": "stars",
+          "blend-mode": "plus-lighter",
+          "opacity": 0.5,
+          "glass": false
+        },
+        {
+          "image-name": "large-orb.png",
+          "name": "large-orb",
+          "blend-mode": "screen",
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.5
+      },
+      "blend-mode": "screen",
+      "lighting": "individual",
+      "specular": "inside",
+      "translucency": {
+        "enabled": true,
+        "value": 0
+      },
+      "refractivity": {
+        "enabled": true,
+        "strength": 0.3,
+        "depth": 0.24
+      }
+    },
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "small-orb.png",
+          "name": "small-orb",
+          "position": {
+            "scale": 1.0,
+            "translation-in-points": [
+              5.0,
+              0.0
+            ]
+          },
+          "glass": true
+        },
+        {
+          "image-name": "2.mountain.1.svg",
+          "name": "2.mountain.1",
+          "fill": {
+            "linear-gradient": [
+              "gray:0.34000,1.00000",
+              "gray:0.69800,0.00000"
+            ]
+          },
+          "glass": false
+        }
+      ],
+      "shadow": {
+        "kind": "none",
+        "opacity": 0.5
+      },
+      "blend-mode": "normal",
+      "lighting": "individual",
+      "specular": "inside",
+      "translucency": {
+        "enabled": true,
+        "value": 0
+      },
+      "blur-material": 0.6
+    },
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "moon.png",
+          "name": "moon",
+          "blend-mode": "screen",
+          "glass": false
+        },
+        {
+          "image-name": "4.sun.svg",
+          "name": "4.sun",
+          "fill-specializations": [
+            {
+              "value": {
+                "solid": "srgb:1.00000,0.96600,0.87100,0.80000"
+              }
+            },
+            {
+              "appearance": "dark",
+              "value": {
+                "solid": "srgb:1.00000,0.96800,0.88100,0.80000"
+              }
+            }
+          ],
+          "glass": true
+        },
+        {
+          "image-name": "3.mountain.2.svg",
+          "name": "3.mountain.2",
+          "fill": {
+            "linear-gradient": [
+              "display-p3:1.00000,0.97600,0.92100,1.00000",
+              "srgb:0.43200,0.71200,1.00000,0.00000"
+            ]
+          },
+          "opacity": 0.61,
+          "glass": true
+        },
+        {
+          "image-name": "2.mountain.1.svg",
+          "name": "2.mountain.1",
+          "fill": {
+            "linear-gradient": [
+              "display-p3:1.00000,0.97600,0.92100,1.00000",
+              "srgb:0.43200,0.71200,1.00000,0.00000"
+            ]
+          },
+          "opacity": 0.61,
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "none",
+        "opacity": 0.6
+      },
+      "blend-mode": "screen",
+      "lighting": "individual",
+      "specular": "inside",
+      "translucency": {
+        "enabled": true,
+        "value": 0
+      }
+    },
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "colorspill.png",
+          "name": "colorspill",
+          "glass": false
+        }
+      ],
+      "shadow": {
+        "kind": "none",
+        "opacity": 0.5
+      },
+      "blend-mode": "normal",
+      "lighting": "individual",
+      "specular": true,
+      "translucency": {
+        "enabled": true,
+        "value": 0
+      },
+      "opacity": 0.5
+    }
+  ],
+  "supported-platforms": {
+    "circles": [
+      "watchOS"
+    ],
+    "squares": "shared"
+  }
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 361-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+ <defs>
+  <clipPath id="SVGID_00000116226095413683519300000011148310570128584637_">
+   <path d="M551.71 143.16c87.1302 0 159.315 4.22932 228.915 57.6183c62.5978 47.9826 99.959 123.929 99.959 203.212c0 79.2837-37.3612 155.231-99.959 203.213c-69.6006 53.389-141.785 57.6183-228.915 57.6183h-79.4203c-87.1301 0-159.315-4.22931-228.915-57.6183c-62.5978-47.9827-99.959-123.93-99.959-203.213c0-79.2823 37.3612-155.229 99.959-203.212c69.6007-53.389 141.785-57.6183 228.915-57.6183H551.71z" style="overflow:visible;"/>
+  </clipPath>
+ </defs>
+ <g/>
+ <g id="head.detail">
+  <g>
+   <g clip-path="url(#SVGID_00000116226095413683519300000011148310570128584637_)" style="clip-path:url(#SVGID_00000116226095413683519300000011148310570128584637_);">
+    <rect fill="#E5E5E5" height="365.774" style="fill:#E5E5E5;" width="221.891" x="823.104" y="222.708"/>
+    <rect fill="#E5E5E5" height="365.774" style="fill:#E5E5E5;" width="221.891" x="-20.9952" y="222.708"/>
+   </g>
+  </g>
+ </g>
+</svg>

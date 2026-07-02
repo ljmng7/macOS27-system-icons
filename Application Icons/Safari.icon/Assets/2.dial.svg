@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 361-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+ <defs>
+  <linearGradient id="SVGID_1_" x1="2969.38" y1="-7655.78" x2="2149.38" y2="-7655.78" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 1 -1 0 -7143.784668 -2047.3847656)">
+   <stop offset="0" stop-color="#196efa" stop-opacity="1"/>
+   <stop offset="1" stop-color="#58bef5" stop-opacity="1"/>
+  </linearGradient>
+ </defs>
+ <g/>
+ <g id="dial">
+  <path clip-rule="evenodd" d="M512 102c-226.437 0-410 183.563-410 410S285.563 922 512 922s410-183.564 410-410S738.436 102 512 102" fill="url(#SVGID_1_)" fill-rule="evenodd" style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_1_);"/>
+ </g>
+</svg>

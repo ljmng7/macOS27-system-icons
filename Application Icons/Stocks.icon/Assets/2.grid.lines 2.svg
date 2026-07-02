@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 361-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+ <g/>
+ <g id="grid.lines">
+  <g>
+   <g>
+    <g opacity="0.1" style="opacity:0.1;">
+     <rect fill="#FFFFFF" height="1024" style="fill:#FFFFFF;" width="20" x="182" y="3e-07"/>
+     <rect fill="#FFFFFF" height="1024" style="fill:#FFFFFF;" width="20" x="396" y="4e-07"/>
+     <rect fill="#FFFFFF" height="1024" style="fill:#FFFFFF;" width="20" x="610" y="0"/>
+     <rect fill="#FFFFFF" height="1024" style="fill:#FFFFFF;" width="20" x="824" y="3e-07"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

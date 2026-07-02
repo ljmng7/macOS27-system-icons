@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 361-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+ <defs>
+  <linearGradient id="SVGID_1_" x1="384" y1="440.32" x2="384" gradientUnits="userSpaceOnUse">
+   <stop offset="0.0003569" stop-color="#007aff" stop-opacity="1"/>
+   <stop offset="1" stop-color="#0d90ff" stop-opacity="1"/>
+  </linearGradient>
+ </defs>
+ <g/>
+ <g id="blue.road">
+  <g>
+   <g>
+    <rect fill="url(#SVGID_1_)" height="440.32" style="fill:url(#SVGID_1_);" width="216" x="276" y="0"/>
+   </g>
+  </g>
+ </g>
+</svg>

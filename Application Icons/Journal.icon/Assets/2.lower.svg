@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 361-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+ <defs>
+  <linearGradient id="SVGID_00000088849645645507125600000005164393157735978635_" x1="258.625" y1="829.231" x2="414.484" y2="571.726" gradientUnits="userSpaceOnUse">
+   <stop offset="0" stop-color="#4b92ff" stop-opacity="1"/>
+   <stop offset="0.146645" stop-color="#4a8bff" stop-opacity="1"/>
+   <stop offset="0.35376" stop-color="#4679ff" stop-opacity="1"/>
+   <stop offset="0.596806" stop-color="#3f5bff" stop-opacity="1"/>
+   <stop offset="0.865118" stop-color="#3631ff" stop-opacity="1"/>
+   <stop offset="1" stop-color="#3119ff" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="SVGID_1_" x1="777.955" y1="823.38" x2="606.284" y2="577.169" gradientUnits="userSpaceOnUse">
+   <stop offset="0" stop-color="#fe4740" stop-opacity="1"/>
+   <stop offset="0.179594" stop-color="#fe4447" stop-opacity="1"/>
+   <stop offset="0.433175" stop-color="#fe3d59" stop-opacity="1"/>
+   <stop offset="0.729204" stop-color="#ff3177" stop-opacity="1"/>
+   <stop offset="1" stop-color="#ff2399" stop-opacity="1"/>
+  </linearGradient>
+ </defs>
+ <g/>
+ <g id="lower">
+  <path d="M532.61 693.366c0 99.4673 147.864 156.674 197.854 156.634c19.1826-0.0154419 37.0975-10.3049 37.0975-39.1586V571.768c0-26.4913-12.3658-41.2195-41.2195-46.533c-112.179-20.6582-193.732-86.4654-193.732-159.565V693.366z" fill="url(#SVGID_1_)" style="fill:url(#SVGID_1_);"/>
+  <path d="M491.39 693.366c0 99.4673-147.864 156.674-197.854 156.634c-19.1826-0.0154419-37.0976-10.3049-37.0976-39.1586V571.768c0-26.4913 12.3658-41.2195 41.2195-46.533c112.179-20.6582 193.732-86.4654 193.732-159.565V693.366z" fill="url(#SVGID_00000088849645645507125600000005164393157735978635_)" style="fill:url(#SVGID_00000088849645645507125600000005164393157735978635_);"/>
+ </g>
+</svg>

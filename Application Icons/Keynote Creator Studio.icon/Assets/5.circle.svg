@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 361-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+ <defs>
+  <linearGradient id="SVGID_00000041975461635665447370000009616754348367011202_" x1="512" y1="433.046" x2="512" y2="242.494" gradientUnits="userSpaceOnUse">
+   <stop offset="0.130449" stop-color="#4495fb" stop-opacity="1"/>
+   <stop offset="1" stop-color="#51c1fd" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="SVGID_1_" x1="671.262" y1="848.229" x2="671.262" y2="848.229" gradientUnits="userSpaceOnUse">
+   <stop offset="0.265364" stop-color="#0043fd" stop-opacity="1"/>
+   <stop offset="0.533741" stop-color="#2f78fe" stop-opacity="1"/>
+   <stop offset="0.848089" stop-color="#61b0ff" stop-opacity="1"/>
+   <stop offset="1" stop-color="#75c6ff" stop-opacity="1"/>
+  </linearGradient>
+ </defs>
+ <g/>
+ <g id="circle">
+  <path d="M671.262 848.229" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke="url(#SVGID_1_)" stroke-width="67" style="fill:none;stroke:url(#SVGID_1_);stroke-width:67;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"/>
+  <ellipse cx="512" cy="336.689" fill="url(#SVGID_00000041975461635665447370000009616754348367011202_)" rx="123.2" ry="105.481" style="fill:url(#SVGID_00000041975461635665447370000009616754348367011202_);"/>
+ </g>
+</svg>

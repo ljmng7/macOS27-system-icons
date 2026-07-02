@@ -1,0 +1,162 @@
+{
+  "features": [
+    "refractivity"
+  ],
+  "fill": {
+    "linear-gradient": [
+      "gray:0.19200,1.00000",
+      "gray:0.07800,1.00000"
+    ],
+    "orientation": {
+      "start": {
+        "x": 0.5,
+        "y": 0
+      },
+      "stop": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "groups": [
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "2.ecgline.svg",
+          "name": "2.ecgline",
+          "position": {
+            "scale": 1.0,
+            "translation-in-points": [
+              0.0,
+              -3.0
+            ]
+          },
+          "fill-specializations": [
+            {
+              "appearance": "tinted",
+              "value": {
+                "linear-gradient": [
+                  "display-p3:0.85100,0.85100,0.85100,1.00000",
+                  "gray:1.00000,1.00000"
+                ]
+              }
+            }
+          ],
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0
+      },
+      "blend-mode": "normal",
+      "lighting": "individual",
+      "specular": true,
+      "translucency": {
+        "enabled": true,
+        "value": 0
+      }
+    },
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "glow.png",
+          "name": "glow",
+          "position": {
+            "scale": 2.17627,
+            "translation-in-points": [
+              386.5,
+              106.0
+            ]
+          },
+          "opacity-specializations": [
+            {
+              "value": 0.25
+            },
+            {
+              "appearance": "tinted",
+              "value": 0.4
+            }
+          ],
+          "glass": false
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.6
+      },
+      "blend-mode": "plus-lighter",
+      "lighting": "individual",
+      "specular": true,
+      "translucency": {
+        "enabled": true,
+        "value": 0.5
+      },
+      "opacity": 0.87
+    },
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "refraction.png",
+          "name": "refraction",
+          "position": {
+            "scale": 1.02051,
+            "translation-in-points": [
+              -0.5,
+              -0.5
+            ]
+          },
+          "opacity": 0,
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.6
+      },
+      "blend-mode": "normal",
+      "lighting": "individual",
+      "specular": false,
+      "translucency": {
+        "enabled": true,
+        "value": 0
+      },
+      "refractivity": {
+        "enabled": true,
+        "strength": 0.61,
+        "depth": 0.24
+      }
+    },
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "grid.svg",
+          "name": "grid",
+          "opacity": 0.08,
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.6
+      },
+      "blend-mode": "normal",
+      "lighting": "individual",
+      "specular": false,
+      "translucency": {
+        "enabled": true,
+        "value": 0
+      }
+    }
+  ],
+  "supported-platforms": {
+    "circles": [
+      "watchOS"
+    ],
+    "squares": "shared"
+  }
+}

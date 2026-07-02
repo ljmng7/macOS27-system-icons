@@ -1,0 +1,248 @@
+{
+  "features": [
+    "refractivity",
+    "specular-location"
+  ],
+  "fill": {
+    "linear-gradient": [
+      "gray:0.19200,1.00000",
+      "gray:0.07800,1.00000"
+    ],
+    "orientation": {
+      "start": {
+        "x": 0.5,
+        "y": 0
+      },
+      "stop": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "groups": [
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "1_arrow.svg",
+          "name": "1_arrow",
+          "position": {
+            "scale": 1.67969,
+            "translation-in-points": [
+              -1.0,
+              -1.0
+            ]
+          },
+          "fill-specializations": [
+            {
+              "value": {
+                "solid": "gray:1.00000,0.70000"
+              }
+            },
+            {
+              "appearance": "dark",
+              "value": {
+                "solid": "gray:0.69100,1.00000"
+              }
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "srgb:1.00000,1.00000,1.00000,1.00000"
+              }
+            }
+          ],
+          "blend-mode": "plus-lighter",
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 1.2
+      },
+      "blend-mode": "plus-lighter",
+      "lighting": "individual",
+      "specular": false,
+      "translucency": {
+        "enabled": true,
+        "value": 0.2
+      },
+      "blur-material": 0.5
+    },
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "2_platter.svg",
+          "name": "2_platter",
+          "position": {
+            "scale": 1.67969,
+            "translation-in-points": [
+              -1.0,
+              -1.0
+            ]
+          },
+          "fill": {
+            "solid": "srgb:1.00000,1.00000,1.00000,0.20000"
+          },
+          "glass": true
+        },
+        {
+          "image-name": "2_platter.svg",
+          "name": "2_platter",
+          "position": {
+            "scale": 1.67969,
+            "translation-in-points": [
+              -1.0,
+              -1.0
+            ]
+          },
+          "fill": {
+            "solid": "srgb:1.00000,1.00000,1.00000,0.00000"
+          },
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 1.6
+      },
+      "blend-mode": "normal",
+      "lighting": "individual",
+      "specular": "outside",
+      "translucency": {
+        "enabled": true,
+        "value": 0
+      },
+      "refractivity": {
+        "enabled": true,
+        "strength": 0.2878,
+        "depth": 0.0624
+      }
+    },
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "Rainbow_Color.png",
+          "name": "Rainbow_Color",
+          "position": {
+            "scale": 0.76122,
+            "translation-in-points": [
+              -1.0,
+              -0.5
+            ]
+          },
+          "opacity-specializations": [
+            {
+              "value": 1
+            },
+            {
+              "appearance": "tinted",
+              "value": 0
+            }
+          ],
+          "glass-specializations": [
+            {
+              "value": true
+            },
+            {
+              "appearance": "tinted",
+              "value": false
+            }
+          ]
+        },
+        {
+          "image-name": "Rainbow_Blk_Wht.png",
+          "name": "Rainbow_Blk_Wht",
+          "position": {
+            "scale": 0.76122,
+            "translation-in-points": [
+              -1.0,
+              -0.5
+            ]
+          },
+          "opacity-specializations": [
+            {
+              "value": 0
+            },
+            {
+              "appearance": "tinted",
+              "value": 1
+            }
+          ],
+          "glass-specializations": [
+            {
+              "value": false
+            },
+            {
+              "appearance": "tinted",
+              "value": true
+            }
+          ]
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.5
+      },
+      "blend-mode": "normal",
+      "lighting": "individual",
+      "specular": true,
+      "translucency": {
+        "enabled": true,
+        "value": 0.2
+      }
+    },
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "4_cells.svg",
+          "name": "4_cells",
+          "fill-specializations": [
+            {
+              "value": {
+                "solid": "srgb:1.00000,1.00000,1.00000,0.16000"
+              }
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "srgb:1.00000,1.00000,1.00000,0.20000"
+              }
+            }
+          ],
+          "opacity-specializations": [
+            {
+              "value": 1
+            },
+            {
+              "appearance": "tinted",
+              "value": 0.4
+            }
+          ],
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.6
+      },
+      "blend-mode": "normal",
+      "lighting": "individual",
+      "specular": true,
+      "translucency": {
+        "enabled": true,
+        "value": 0
+      },
+      "blur-material": 0.5
+    }
+  ],
+  "supported-platforms": {
+    "circles": [
+      "watchOS"
+    ],
+    "squares": "shared"
+  }
+}

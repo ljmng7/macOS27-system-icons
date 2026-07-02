@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 361-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+ <defs>
+  <linearGradient id="SVGID_1_" x1="-2616.2" y1="-4455.1" x2="-1796.21" y2="-4455.1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.449330e-10 -1 1 -1.449330e-10 4967.0996094 -1694.2025146)">
+   <stop offset="0.2661" stop-color="#2775f0" stop-opacity="1"/>
+   <stop offset="1" stop-color="#26eefd" stop-opacity="1"/>
+  </linearGradient>
+ </defs>
+ <g/>
+ <g id="circle">
+  <path clip-rule="evenodd" d="M102.003 512c0 226.435 183.562 409.997 409.997 409.997S921.997 738.435 921.997 512S738.435 102.003 512 102.003S102.003 285.565 102.003 512zM767.999 512c0 141.384-114.615 255.999-255.999 255.999S256.001 653.384 256.001 512S370.616 256.001 512 256.001S767.999 370.616 767.999 512z" fill="url(#SVGID_1_)" fill-rule="evenodd" style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_1_);"/>
+ </g>
+</svg>

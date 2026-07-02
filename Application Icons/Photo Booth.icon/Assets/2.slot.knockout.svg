@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 361-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+ <defs>
+  <linearGradient id="SVGID_1_" x1="512" y1="1024" x2="512" gradientUnits="userSpaceOnUse">
+   <stop offset="0" stop-color="#cc3228" stop-opacity="1"/>
+   <stop offset="1" stop-color="#eb4e3d" stop-opacity="1"/>
+  </linearGradient>
+ </defs>
+ <g/>
+ <g id="slot.knockout">
+  <path d="M1024 1024H0V0h1024V1024zM871.473 142.138C854.395 129.038 836.683 128 815.304 128H208.696c-21.379 0-39.091 1.03784-56.1688 14.1376C137.167 153.911 128 172.546 128 192c0 19.4537 9.16736 38.0886 24.527 49.8623C169.605 254.962 187.317 256 208.696 256h606.608c21.379 0 39.091-1.03784 56.1688-14.1377C886.833 230.089 896 211.454 896 192C896 172.546 886.833 153.911 871.473 142.138z" fill="url(#SVGID_1_)" style="fill:url(#SVGID_1_);"/>
+ </g>
+</svg>

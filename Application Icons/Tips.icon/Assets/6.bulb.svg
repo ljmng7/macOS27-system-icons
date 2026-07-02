@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 361-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+ <defs>
+  <linearGradient id="SVGID_00000134967755583637515220000000481303868602167200_" x1="514.943" y1="796.571" x2="514.943" y2="98.352" gradientUnits="userSpaceOnUse">
+   <stop offset="0.0693618" stop-color="#ffffff" stop-opacity="1"/>
+   <stop offset="0.487424" stop-color="#fff1bd" stop-opacity="0.550779"/>
+   <stop offset="1" stop-color="#ffdf66" stop-opacity="0"/>
+  </linearGradient>
+  <radialGradient id="SVGID_1_" cx="514.943" cy="447.462" r="308.463" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1.1 0 -44.7461662)">
+   <stop offset="0.139819" stop-color="#ffdf66" stop-opacity="0.3"/>
+   <stop offset="0.494993" stop-color="#ffe068" stop-opacity="0.589035"/>
+   <stop offset="0.622916" stop-color="#ffe16f" stop-opacity="0.693136"/>
+   <stop offset="0.714111" stop-color="#ffe37a" stop-opacity="0.767349"/>
+   <stop offset="0.78784" stop-color="#ffe78b" stop-opacity="0.827348"/>
+   <stop offset="0.850988" stop-color="#ffeca1" stop-opacity="0.878736"/>
+   <stop offset="0.906944" stop-color="#fff1bd" stop-opacity="0.924273"/>
+   <stop offset="0.956267" stop-color="#fff8dc" stop-opacity="0.964411"/>
+   <stop offset="1" stop-color="#ffffff" stop-opacity="1"/>
+  </radialGradient>
+ </defs>
+ <g/>
+ <g id="bulb">
+  <g>
+   <g opacity="0.95" style="opacity:0.95;">
+    <path d="M514.943 98.352c-153.57 0-261.575 139.489-261.575 251.234c0 40.7056 5.4081 71.8999 14.0457 97.8662c33.004 99.219 113.203 122.038 119.431 306.807c0.519165 15.4011 6.28778 30.2395 16.2909 42.2935H514.943l111.929 0.0179443c10.0031-12.054 15.6505-26.9103 16.1696-42.3114c6.2276-184.769 86.4267-207.588 119.431-306.807c8.63751-25.9663 14.0457-57.1606 14.0457-97.8662C776.518 237.841 668.513 98.352 514.943 98.352z" fill="url(#SVGID_1_)" opacity="0.95" style="opacity:0.95;fill:url(#SVGID_1_);"/>
+   </g>
+   <g>
+    <path d="M514.943 98.352c-153.57 0-261.575 139.489-261.575 251.234c0 40.7056 5.4081 71.8999 14.0457 97.8662c33.004 99.219 113.203 122.038 119.431 306.807c0.519165 15.4011 6.28778 30.2395 16.2909 42.2935H514.943l111.929 0.0179443c10.0031-12.054 15.6505-26.9103 16.1696-42.3114c6.2276-184.769 86.4267-207.588 119.431-306.807c8.63751-25.9663 14.0457-57.1606 14.0457-97.8662C776.518 237.841 668.513 98.352 514.943 98.352z" fill="url(#SVGID_00000134967755583637515220000000481303868602167200_)" opacity="0.95" style="opacity:0.95;fill:url(#SVGID_00000134967755583637515220000000481303868602167200_);"/>
+   </g>
+  </g>
+ </g>
+</svg>

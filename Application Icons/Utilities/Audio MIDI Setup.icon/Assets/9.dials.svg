@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 361-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+ <g/>
+ <g id="dials">
+  <path d="M788 192c0-24.3005 19.6995-44 44-44s44 19.6995 44 44s-19.6995 44-44 44S788 216.301 788 192zM832 260c-24.3005 0-44 19.6995-44 44s19.6995 44 44 44s44-19.6995 44-44S856.301 260 832 260z" fill="#545454" style="fill:#545454;"/>
+ </g>
+</svg>

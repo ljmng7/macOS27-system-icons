@@ -1,0 +1,124 @@
+{
+  "features": [
+    "specular-location"
+  ],
+  "fill": {
+    "linear-gradient": [
+      "display-p3:0.45300,0.64500,0.98400,1.00000",
+      "display-p3:0.30800,0.49900,1.00000,1.00000"
+    ],
+    "orientation": {
+      "start": {
+        "x": 0.5,
+        "y": 0
+      },
+      "stop": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "fill-specializations": [
+      {
+        "value": {
+          "linear-gradient": [
+            "display-p3:0.45300,0.64500,0.98400,1.00000",
+            "display-p3:0.30800,0.49900,1.00000,1.00000"
+          ],
+          "orientation": {
+            "start": {
+              "x": 0.5,
+              "y": 0
+            },
+            "stop": {
+              "x": 0.5,
+              "y": 1
+            }
+          }
+        }
+      },
+      {
+        "appearance": "dark",
+        "value": {
+          "linear-gradient": [
+            "gray:0.19200,1.00000",
+            "gray:0.07800,1.00000"
+          ],
+          "orientation": {
+            "start": {
+              "x": 0.5,
+              "y": 0
+            },
+            "stop": {
+              "x": 0.5,
+              "y": 1
+            }
+          }
+        }
+      }
+    ]
+  },
+  "groups": [
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "1.loupe.top.light.png",
+          "name": "1.loupe.top.light",
+          "position": {
+            "scale": 1.02539,
+            "translation-in-points": [
+              0.0,
+              0.0
+            ]
+          },
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.5
+      },
+      "blend-mode": "normal",
+      "lighting": "individual",
+      "specular": false,
+      "translucency": {
+        "enabled": true,
+        "value": 0
+      }
+    },
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "1.loupe.glass.light.png",
+          "name": "1.loupe.glass.light",
+          "position": {
+            "scale": 1.02539,
+            "translation-in-points": [
+              0.0,
+              0.0
+            ]
+          },
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.5
+      },
+      "blend-mode": "normal",
+      "lighting": "individual",
+      "specular": "inside",
+      "translucency": {
+        "enabled": true,
+        "value": 0
+      }
+    }
+  ],
+  "supported-platforms": {
+    "circles": [
+      "watchOS"
+    ],
+    "squares": "shared"
+  }
+}

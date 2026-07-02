@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 361-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+ <g/>
+ <g id="gel">
+  <g>
+   <line fill="#FFFFFF" style="fill:#FFFFFF;" x1="781.178" x2="180.237" y1="242.918" y2="843.859"/>
+   <path d="M180.237 853.859c-2.55908 0-5.11865-0.976562-7.07129-2.92871c-3.90479-3.90527-3.90479-10.2373 0-14.1426l600.941-600.941c3.90625-3.90527 10.2363-3.90527 14.1426 0c3.90527 3.90527 3.90527 10.2373 0 14.1426l-600.941 600.941C185.356 852.883 182.796 853.859 180.237 853.859z" fill="#FFFF00" style="fill:#FFFF00;"/>
+  </g>
+ </g>
+</svg>

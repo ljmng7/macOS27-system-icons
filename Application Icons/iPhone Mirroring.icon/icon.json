@@ -1,0 +1,260 @@
+{
+  "features": [
+    "refractivity",
+    "specular-location"
+  ],
+  "fill": {
+    "linear-gradient": [
+      "display-p3:0.45300,0.64500,0.98400,1.00000",
+      "display-p3:0.30800,0.49900,1.00000,1.00000"
+    ],
+    "orientation": {
+      "start": {
+        "x": 0.5,
+        "y": 0
+      },
+      "stop": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "fill-specializations": [
+      {
+        "value": {
+          "linear-gradient": [
+            "display-p3:0.45300,0.64500,0.98400,1.00000",
+            "display-p3:0.30800,0.49900,1.00000,1.00000"
+          ],
+          "orientation": {
+            "start": {
+              "x": 0.5,
+              "y": 0
+            },
+            "stop": {
+              "x": 0.5,
+              "y": 1
+            }
+          }
+        }
+      },
+      {
+        "appearance": "dark",
+        "value": {
+          "linear-gradient": [
+            "gray:0.19200,1.00000",
+            "gray:0.07800,1.00000"
+          ],
+          "orientation": {
+            "start": {
+              "x": 0.5,
+              "y": 0
+            },
+            "stop": {
+              "x": 0.5,
+              "y": 1
+            }
+          }
+        }
+      }
+    ]
+  },
+  "groups": [
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "4.home.affordance.svg",
+          "name": "4.home.affordance",
+          "position": {
+            "scale": 1.07031,
+            "translation-in-points": [
+              0.0,
+              0.0
+            ]
+          },
+          "glass": false
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.5
+      },
+      "blend-mode": "plus-lighter",
+      "lighting": "individual",
+      "specular": true,
+      "translucency": {
+        "enabled": true,
+        "value": 0
+      },
+      "opacity": 0.3
+    },
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "3.devicefront.svg",
+          "name": "3.devicefront",
+          "position": {
+            "scale": 1.07031,
+            "translation-in-points": [
+              0.0,
+              0.0
+            ]
+          },
+          "fill-specializations": [
+            {
+              "value": {
+                "solid": "srgb:1.00000,1.00000,1.00000,1.00000"
+              }
+            },
+            {
+              "appearance": "dark",
+              "value": {
+                "solid": "srgb:0.58500,0.73900,1.00000,1.00000"
+              }
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "gray:0.94400,0.70100"
+              }
+            }
+          ],
+          "opacity-specializations": [
+            {
+              "value": 0.33
+            },
+            {
+              "appearance": "dark",
+              "value": 0.65
+            },
+            {
+              "appearance": "tinted",
+              "value": 0.6
+            }
+          ],
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.5
+      },
+      "blend-mode-specializations": [
+        {
+          "value": "plus-lighter"
+        },
+        {
+          "appearance": "dark",
+          "value": "screen"
+        },
+        {
+          "appearance": "tinted",
+          "value": "screen"
+        }
+      ],
+      "lighting": "individual",
+      "specular": "outside",
+      "translucency-specializations": [
+        {
+          "value": {
+            "enabled": true,
+            "value": 0.6
+          }
+        },
+        {
+          "appearance": "dark",
+          "value": {
+            "enabled": true,
+            "value": 0.5
+          }
+        }
+      ],
+      "refractivity": {
+        "enabled": true,
+        "strength": -1,
+        "depth": 0.04
+      }
+    },
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "2.deviceback.svg",
+          "name": "2.deviceback",
+          "position": {
+            "scale": 1.07031,
+            "translation-in-points": [
+              0.0,
+              0.0
+            ]
+          },
+          "fill-specializations": [
+            {
+              "value": {
+                "solid": "srgb:0.00000,0.04900,0.40800,1.00000"
+              }
+            },
+            {
+              "appearance": "dark",
+              "value": {
+                "linear-gradient": [
+                  "display-p3:0.45300,0.64500,0.98400,1.00000",
+                  "display-p3:0.30800,0.49900,1.00000,1.00000"
+                ]
+              }
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "linear-gradient": [
+                  "gray:0.66900,1.00000",
+                  "gray:0.94000,1.00000"
+                ]
+              }
+            }
+          ],
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.5
+      },
+      "blend-mode": "normal",
+      "lighting": "individual",
+      "specular-specializations": [
+        {
+          "value": "inside"
+        },
+        {
+          "appearance": "dark",
+          "value": "outside"
+        },
+        {
+          "appearance": "tinted",
+          "value": "outside"
+        }
+      ],
+      "translucency": {
+        "enabled": true,
+        "value": 0.2
+      },
+      "opacity-specializations": [
+        {
+          "value": 1
+        },
+        {
+          "appearance": "tinted",
+          "value": 0.9
+        }
+      ]
+    }
+  ],
+  "supported-platforms": {
+    "circles": [
+      "watchOS"
+    ],
+    "squares": "shared"
+  }
+}

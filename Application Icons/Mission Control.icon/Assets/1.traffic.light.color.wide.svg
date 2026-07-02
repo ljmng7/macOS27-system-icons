@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 361-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2048 1024">
+ <g/>
+ <g id="traffic.light.color.wide">
+  <g>
+   <circle cx="229.293" cy="574.293" fill="#ED7B6F" r="12" style="fill:#ED7B6F;"/>
+   <path d="M277.759 574.293c0 6.62744-5.37259 12-12 12c-6.62744 0-12-5.37256-12-12c0-6.62738 5.37257-12 12-12C272.387 562.293 277.759 567.666 277.759 574.293z" fill="#EAB200" style="fill:#EAB200;"/>
+   <path d="M315.317 574.293c0 6.62744-5.37256 12-12 12c-6.62741 0-12-5.37256-12-12c0-6.62738 5.37259-12 12-12C309.945 562.293 315.317 567.666 315.317 574.293z" fill="#5ABF4A" style="fill:#5ABF4A;"/>
+  </g>
+  <g>
+   <circle cx="1541.36" cy="574.293" fill="#ED7B6F" r="12" style="fill:#ED7B6F;"/>
+   <circle cx="1577.83" cy="574.293" fill="#EAB200" r="12" style="fill:#EAB200;"/>
+   <circle cx="1615.38" cy="574.293" fill="#5ABF4A" r="12" style="fill:#5ABF4A;"/>
+  </g>
+ </g>
+</svg>

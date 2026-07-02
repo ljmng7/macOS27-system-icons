@@ -1,0 +1,156 @@
+{
+  "features": [
+    "refractivity",
+    "specular-location"
+  ],
+  "fill": {
+    "linear-gradient": [
+      "gray:0.19200,1.00000",
+      "gray:0.07800,1.00000"
+    ],
+    "orientation": {
+      "start": {
+        "x": 0.5,
+        "y": 0
+      },
+      "stop": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "groups": [
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "7.blue.dot.small.svg",
+          "name": "7.blue.dot.small",
+          "fill-specializations": [
+            {
+              "value": {
+                "solid": "display-p3:0.00000,0.82800,1.00000,1.00000"
+              }
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "gray:0.83800,1.00000"
+              }
+            }
+          ],
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 1.64
+      },
+      "blend-mode": "normal",
+      "lighting": "individual",
+      "specular": "outside",
+      "translucency": {
+        "enabled": true,
+        "value": 0
+      }
+    },
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "6.blue.dot.big.svg",
+          "name": "6.blue.dot.big",
+          "opacity": 0.5,
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 1.6
+      },
+      "blend-mode": "normal",
+      "lighting": "individual",
+      "specular": "inside",
+      "translucency": {
+        "enabled": true,
+        "value": 0
+      },
+      "refractivity": {
+        "enabled": true,
+        "strength": 0.12,
+        "depth": 0.28
+      }
+    },
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "5.blue.line.svg",
+          "name": "5.blue.line",
+          "glass": true
+        },
+        {
+          "image-name": "4.graph.line.svg",
+          "name": "4.graph.line",
+          "glass": true
+        },
+        {
+          "image-name": "3.graph.gradient.svg",
+          "name": "3.graph.gradient",
+          "fill-specializations": [
+            {
+              "appearance": "tinted",
+              "value": {
+                "linear-gradient": [
+                  "gray:1.00000,1.00000",
+                  "gray:0.00000,0.00000"
+                ]
+              }
+            }
+          ],
+          "opacity": 0.3,
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.52
+      },
+      "blend-mode": "normal",
+      "lighting": "individual",
+      "specular": "inside",
+      "translucency": {
+        "enabled": true,
+        "value": 0.3
+      },
+      "blur-material": 0.1
+    },
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "2.grid.lines 2.svg",
+          "name": "2.grid.lines 2",
+          "glass": false
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.5
+      },
+      "blend-mode": "normal",
+      "lighting": "individual",
+      "specular": true,
+      "translucency": {
+        "enabled": true,
+        "value": 0
+      }
+    }
+  ],
+  "supported-platforms": {
+    "circles": [
+      "watchOS"
+    ],
+    "squares": "shared"
+  }
+}

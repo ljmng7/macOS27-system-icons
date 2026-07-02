@@ -1,0 +1,137 @@
+{
+  "fill": {
+    "linear-gradient": [
+      "srgb:0.32500,0.94100,0.42700,1.00000",
+      "srgb:0.12200,0.82000,0.23500,1.00000"
+    ],
+    "orientation": {
+      "start": {
+        "x": 0.5,
+        "y": 0
+      },
+      "stop": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "fill-specializations": [
+      {
+        "value": {
+          "linear-gradient": [
+            "srgb:0.32500,0.94100,0.42700,1.00000",
+            "srgb:0.12200,0.82000,0.23500,1.00000"
+          ],
+          "orientation": {
+            "start": {
+              "x": 0.5,
+              "y": 0
+            },
+            "stop": {
+              "x": 0.5,
+              "y": 1
+            }
+          }
+        }
+      },
+      {
+        "appearance": "dark",
+        "value": {
+          "linear-gradient": [
+            "gray:0.19200,1.00000",
+            "gray:0.07800,1.00000"
+          ],
+          "orientation": {
+            "start": {
+              "x": 0.5,
+              "y": 0
+            },
+            "stop": {
+              "x": 0.5,
+              "y": 1
+            }
+          }
+        }
+      }
+    ]
+  },
+  "groups": [
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "3.camera.svg",
+          "name": "3.camera",
+          "fill-specializations": [
+            {
+              "appearance": "dark",
+              "value": {
+                "linear-gradient": [
+                  "srgb:0.32500,0.94100,0.42700,1.00000",
+                  "srgb:0.12200,0.82000,0.23500,1.00000"
+                ]
+              }
+            }
+          ],
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.52
+      },
+      "blend-mode": "normal",
+      "lighting": "individual",
+      "specular": true,
+      "translucency": {
+        "enabled": true,
+        "value": 0.2
+      },
+      "blur-material": 0.5
+    },
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "3.lens shadow.svg",
+          "name": "3.lens shadow",
+          "blend-mode": "multiply",
+          "opacity": 0.4,
+          "glass": false
+        },
+        {
+          "image-name": "2.lens.svg",
+          "name": "2.lens",
+          "fill-specializations": [
+            {
+              "appearance": "dark",
+              "value": {
+                "linear-gradient": [
+                  "srgb:0.32500,0.94100,0.42700,1.00000",
+                  "srgb:0.12200,0.82000,0.23500,1.00000"
+                ]
+              }
+            }
+          ],
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.52
+      },
+      "blend-mode": "normal",
+      "lighting": "individual",
+      "specular": true,
+      "translucency": {
+        "enabled": true,
+        "value": 0.2
+      }
+    }
+  ],
+  "supported-platforms": {
+    "circles": [
+      "watchOS"
+    ],
+    "squares": "shared"
+  }
+}

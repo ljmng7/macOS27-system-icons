@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 361-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+ <g/>
+ <g id="windows">
+  <path d="M317.217 624.631H494.473c25.7621 0 38.8859-12.6371 38.8859-39.3714v-71.9393c0-26.8969-13.1238-39.534-38.8859-39.534H317.217c-25.7621 0-38.8861 12.6371-38.8861 39.534v71.9393C278.331 611.994 291.455 624.631 317.217 624.631z" fill="#FFFFFF" fill-opacity="0.85" style="fill:#FFFFFF;fill-opacity:0.85;"/>
+  <path d="M612.266 598.707h147.605c25.762 0 38.8859-12.6382 38.8859-39.3726V319.375c0-26.7342-13.1238-39.5343-38.8859-39.5343H612.266c-25.762 0-38.8859 12.8001-38.8859 39.5343v239.96C573.38 586.069 586.504 598.707 612.266 598.707z" fill="#FFFFFF" fill-opacity="0.85" style="fill:#FFFFFF;fill-opacity:0.85;"/>
+  <path d="M266.017 429.067h202.694c25.5995 0 38.7233-12.7997 38.7233-39.5341v-98.6739c0-26.8962-13.1238-39.3723-38.7233-39.3723H266.017c-25.6001 0-38.7242 12.476-38.7242 39.3723v98.6739C227.293 416.267 240.417 429.067 266.017 429.067z" fill="#FFFFFF" fill-opacity="0.85" style="fill:#FFFFFF;fill-opacity:0.85;"/>
+ </g>
+</svg>

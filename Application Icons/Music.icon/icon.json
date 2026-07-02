@@ -1,0 +1,171 @@
+{
+  "fill": {
+    "linear-gradient": [
+      "display-p3:0.92000,0.29000,0.38000,1.00000",
+      "display-p3:0.91700,0.17600,0.23000,1.00000"
+    ],
+    "orientation": {
+      "start": {
+        "x": 0.5,
+        "y": 0
+      },
+      "stop": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "fill-specializations": [
+      {
+        "value": {
+          "linear-gradient": [
+            "display-p3:0.92000,0.29000,0.38000,1.00000",
+            "display-p3:0.91700,0.17600,0.23000,1.00000"
+          ],
+          "orientation": {
+            "start": {
+              "x": 0.5,
+              "y": 0
+            },
+            "stop": {
+              "x": 0.5,
+              "y": 1
+            }
+          }
+        }
+      },
+      {
+        "appearance": "dark",
+        "value": {
+          "linear-gradient": [
+            "gray:0.19200,1.00000",
+            "gray:0.07800,1.00000"
+          ],
+          "orientation": {
+            "start": {
+              "x": 0.5,
+              "y": 0
+            },
+            "stop": {
+              "x": 0.5,
+              "y": 1
+            }
+          }
+        }
+      }
+    ]
+  },
+  "groups": [
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "1.note.svg",
+          "name": "1.note",
+          "fill-specializations": [
+            {
+              "value": {
+                "linear-gradient": [
+                  "display-p3:1.00000,1.00000,1.00000,0.91400",
+                  "srgb:1.00000,0.90900,0.92600,1.00000"
+                ]
+              }
+            },
+            {
+              "appearance": "dark",
+              "value": {
+                "linear-gradient": [
+                  "display-p3:0.91700,0.19300,0.30200,1.00000",
+                  "display-p3:0.88100,0.10900,0.19400,1.00000"
+                ]
+              }
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "linear-gradient": [
+                  "display-p3:1.00000,1.00000,1.00000,0.88900",
+                  "srgb:0.84800,0.84800,0.84800,1.00000"
+                ]
+              }
+            }
+          ],
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.3
+      },
+      "blend-mode": "normal",
+      "lighting": "individual",
+      "specular": true,
+      "translucency": {
+        "enabled": true,
+        "value": 0.17
+      }
+    },
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "1.note.svg",
+          "name": "1.note",
+          "fill-specializations": [
+            {
+              "value": {
+                "solid": "display-p3:0.29300,0.08100,0.10400,1.00000"
+              }
+            },
+            {
+              "appearance": "dark",
+              "value": {
+                "linear-gradient": [
+                  "display-p3:0.91700,0.19300,0.30200,1.00000",
+                  "display-p3:0.88100,0.10900,0.19400,1.00000"
+                ]
+              }
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "linear-gradient": [
+                  "display-p3:1.00000,1.00000,1.00000,0.88900",
+                  "srgb:0.84800,0.84800,0.84800,1.00000"
+                ]
+              }
+            }
+          ],
+          "blend-mode": "plus-darker",
+          "opacity-specializations": [
+            {
+              "value": 1
+            },
+            {
+              "appearance": "dark",
+              "value": 0
+            }
+          ],
+          "glass": false
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.46
+      },
+      "blend-mode": "plus-darker",
+      "lighting": "individual",
+      "specular": true,
+      "translucency": {
+        "enabled": true,
+        "value": 0.05
+      },
+      "opacity": 0.3
+    }
+  ],
+  "supported-platforms": {
+    "circles": [
+      "watchOS"
+    ],
+    "squares": "shared"
+  }
+}

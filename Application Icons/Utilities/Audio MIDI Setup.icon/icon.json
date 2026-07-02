@@ -1,0 +1,130 @@
+{
+  "fill": {
+    "linear-gradient": [
+      "gray:0.19200,1.00000",
+      "gray:0.07800,1.00000"
+    ],
+    "orientation": {
+      "start": {
+        "x": 0.5,
+        "y": 0
+      },
+      "stop": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "groups": [
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "6.screen.svg",
+          "name": "6.screen",
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.5
+      },
+      "blend-mode": "normal",
+      "lighting": "individual",
+      "specular": true,
+      "translucency": {
+        "enabled": true,
+        "value": 0.5
+      }
+    },
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "9.dials.svg",
+          "name": "9.dials",
+          "glass": true
+        },
+        {
+          "image-name": "8.sliderhandles.svg",
+          "name": "8.sliderhandles",
+          "glass": true
+        },
+        {
+          "image-name": "7.sliders.svg",
+          "name": "7.sliders",
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.5
+      },
+      "blend-mode": "normal",
+      "lighting": "individual",
+      "specular": true,
+      "translucency": {
+        "enabled": true,
+        "value": 0.5
+      }
+    },
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "5.squarebuttons.svg",
+          "name": "5.squarebuttons",
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.5
+      },
+      "blend-mode": "normal",
+      "lighting": "individual",
+      "specular": true,
+      "translucency": {
+        "enabled": true,
+        "value": 0.65
+      }
+    },
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "3.keys.black.svg",
+          "name": "3.keys.black",
+          "glass": true
+        },
+        {
+          "image-name": "4.keys.shadow.svg",
+          "name": "4.keys.shadow",
+          "glass": false
+        },
+        {
+          "image-name": "2.keys.white.svg",
+          "name": "2.keys.white",
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.5
+      },
+      "blend-mode": "normal",
+      "lighting": "individual",
+      "specular": true,
+      "translucency": {
+        "enabled": true,
+        "value": 0.55
+      }
+    }
+  ],
+  "supported-platforms": {
+    "circles": [
+      "watchOS"
+    ],
+    "squares": "shared"
+  }
+}

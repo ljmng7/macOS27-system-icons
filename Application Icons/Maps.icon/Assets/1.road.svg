@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 361-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+ <g/>
+ <g id="road">
+  <path d="M540 412V0H228v182.407c0 23.3689-0.950684 35.4626-11.1364 41.1254c-11.1875 6.21967-22.9954 2.83618-42.3677-9.85828L0 97.3431v299.582l194.88 129.676C215.569 540.367 228 568 228 600v424h312V836c0-39.9766 24.0972-63.7173 65.7515-36l336.633 224H1024V778.777L572.399 478.239C552.16 464.771 540 444 540 412z" fill="#F0F0F0" style="fill:#F0F0F0;"/>
+ </g>
+</svg>

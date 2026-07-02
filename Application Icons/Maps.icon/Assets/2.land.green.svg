@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 361-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+ <g/>
+ <g id="land.green">
+  <path d="M0 97.3431l174.496 116.331c19.3724 12.6945 31.1802 16.0779 42.3677 9.85829C227.049 217.869 228 205.776 228 182.407V0H0V97.3431zM540 0v412c0 32 12.1601 52.7707 32.3986 66.2393L1024 778.777V0H540z" fill="#3ED958" style="fill:#3ED958;"/>
+ </g>
+</svg>
