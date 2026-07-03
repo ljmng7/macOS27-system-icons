@@ -1,0 +1,202 @@
+{
+  "fill": {
+    "automatic-gradient": "srgb:0.00000,0.47800,1.00000,1.00000",
+    "orientation": {
+      "start": {
+        "x": 0.5,
+        "y": 0.0
+      },
+      "stop": {
+        "x": 0.5,
+        "y": 1.0
+      }
+    },
+    "fill-specializations": [
+      {
+        "value": {
+          "automatic-gradient": "srgb:0.00000,0.47800,1.00000,1.00000",
+          "orientation": {
+            "start": {
+              "x": 0.5,
+              "y": 0.0
+            },
+            "stop": {
+              "x": 0.5,
+              "y": 1.0
+            }
+          }
+        }
+      },
+      {
+        "appearance": "dark",
+        "value": {
+          "linear-gradient": [
+            "gray:0.19200,1.00000",
+            "gray:0.07800,1.00000"
+          ],
+          "orientation": {
+            "start": {
+              "x": 0.5,
+              "y": 0.0
+            },
+            "stop": {
+              "x": 0.5,
+              "y": 1.0
+            }
+          }
+        }
+      }
+    ]
+  },
+  "groups": [
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "3.siri.orb.solarium.mono_1088.png",
+          "name": "3.siri.orb.solarium.mono_1088",
+          "position": {
+            "scale": 1.0625,
+            "translation-in-points": [
+              0.0,
+              0.0
+            ]
+          },
+          "glass-specializations": [
+            {
+              "value": false
+            },
+            {
+              "appearance": "tinted",
+              "value": true
+            }
+          ]
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.5
+      },
+      "blend-mode": "normal",
+      "lighting": "individual",
+      "specular": true,
+      "translucency": {
+        "enabled": true,
+        "value": 0.5
+      },
+      "opacity-specializations": [
+        {
+          "value": 0
+        },
+        {
+          "appearance": "tinted",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "2.siri.orb.solarium.light_1088.png",
+          "name": "2.siri.orb.solarium.light_1088",
+          "position": {
+            "scale": 1.0625,
+            "translation-in-points": [
+              0.0,
+              0.0
+            ]
+          },
+          "glass-specializations": [
+            {
+              "value": true
+            },
+            {
+              "appearance": "tinted",
+              "value": false
+            }
+          ]
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.5
+      },
+      "blend-mode": "normal",
+      "lighting": "individual",
+      "specular": true,
+      "translucency": {
+        "enabled": true,
+        "value": 0.5
+      },
+      "opacity-specializations": [
+        {
+          "value": 1
+        },
+        {
+          "appearance": "tinted",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "1.siri.background.solarium.light_1088.png",
+          "name": "1.siri.background.solarium.light_1088",
+          "position": {
+            "scale": 1.0625,
+            "translation-in-points": [
+              0.0,
+              0.0
+            ]
+          },
+          "glass-specializations": [
+            {
+              "value": true
+            },
+            {
+              "appearance": "dark",
+              "value": false
+            },
+            {
+              "appearance": "tinted",
+              "value": false
+            }
+          ]
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.5
+      },
+      "blend-mode": "normal",
+      "lighting": "individual",
+      "specular": true,
+      "translucency": {
+        "enabled": true,
+        "value": 0.5
+      },
+      "opacity-specializations": [
+        {
+          "value": 1
+        },
+        {
+          "appearance": "dark",
+          "value": 0
+        },
+        {
+          "appearance": "tinted",
+          "value": 0
+        }
+      ]
+    }
+  ],
+  "supported-platforms": {
+    "circles": [
+      "watchOS"
+    ],
+    "squares": "shared"
+  }
+}
