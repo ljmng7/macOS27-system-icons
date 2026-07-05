@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 361-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+ <title>WidgetKit Simulator</title>
+ <g fill="none" fill-rule="evenodd" id="WidgetKit-Simulator" stroke="none" stroke-width="1">
+  <g fill="#191E32" id="Widgets" transform="translate(180, 182)">
+   <g id="Stack-4" transform="translate(0, 1)">
+    <path d="M115.375 0L192.625 7.25467e-15C232.744-4.21517e-15 247.291 4.17715 261.958 12.021C276.625 19.8648 288.135 31.3753 295.979 46.0419C303.823 60.7086 308 75.2565 308 115.375L308 192.625C308 232.744 303.823 247.291 295.979 261.958C288.135 276.625 276.625 288.135 261.958 295.979C247.291 303.823 232.744 308 192.625 308L115.375 308C75.2565 308 60.7086 303.823 46.0419 295.979C31.3753 288.135 19.8648 276.625 12.021 261.958C4.17715 247.291 0 232.744 0 192.625L0 115.375C0 75.2565 4.17715 60.7086 12.021 46.0419C19.8648 31.3753 31.3753 19.8648 46.0419 12.021C60.7086 4.17715 75.2565 0 115.375 0Z" id="Rectangle-2"/>
+   </g>
+  </g>
+ </g>
+</svg>

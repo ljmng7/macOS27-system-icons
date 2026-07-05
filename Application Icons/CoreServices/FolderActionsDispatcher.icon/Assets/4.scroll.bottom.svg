@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 361-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+ <defs>
+  <linearGradient id="SVGID_00000183240845231843681490000004035296114002882238_" x1="715.53" y1="512.524" x2="716.309" y2="512.974" gradientUnits="userSpaceOnUse">
+   <stop offset="0" stop-color="#aaaaaa" stop-opacity="1"/>
+   <stop offset="0.304578" stop-color="#868686" stop-opacity="1"/>
+   <stop offset="0.46765" stop-color="#787878" stop-opacity="1"/>
+   <stop offset="0.607248" stop-color="#7d7d7d" stop-opacity="1"/>
+   <stop offset="0.783533" stop-color="#8d8d8d" stop-opacity="1"/>
+   <stop offset="0.978799" stop-color="#a7a7a7" stop-opacity="1"/>
+   <stop offset="1" stop-color="#aaaaaa" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="SVGID_1_" x1="502.578" y1="572.278" x2="637.196" y2="650" gradientUnits="userSpaceOnUse">
+   <stop offset="0" stop-color="#aaaaaa" stop-opacity="1"/>
+   <stop offset="0.104431" stop-color="#999999" stop-opacity="1"/>
+   <stop offset="0.287421" stop-color="#818181" stop-opacity="1"/>
+   <stop offset="0.4" stop-color="#787878" stop-opacity="1"/>
+   <stop offset="0.568868" stop-color="#818181" stop-opacity="1"/>
+   <stop offset="0.843353" stop-color="#999999" stop-opacity="1"/>
+   <stop offset="1" stop-color="#aaaaaa" stop-opacity="1"/>
+  </linearGradient>
+ </defs>
+ <g/>
+ <g id="scroll.bottom">
+  <path d="M725.848 494.653c-1.96106 4.12399-4.07367 8.1745-6.23938 12.1719c-2.00476 3.7005-4.06647 7.36847-6.1496 11.0251c-2.47095 4.34271-4.97046 8.66803-7.46869 12.995h6.1e-05L596.765 720.03c-12.9814 22.4844-24.8278 40.4821-48.9747 50.4888c-21.7089 9.00482-46.8739 7.33093-67.3335-4.48132c-20.4596-11.8124-34.4916-32.769-37.5477-56.0719c-3.4075-25.9152 6.2558-45.1732 19.2372-67.6577l117.745-203.941c0.747131-1.29413 2.12799-2.09137 3.62225-2.09143c2.41467-6.1e-05 4.33063 2.03918 4.16931 4.44849c-1.91705 28.6371 12.1665 57.2401 38.7009 72.5597c0 0 0.0001221 0 0.0001221 6.1e-05C660.067 532.73 702.256 524.099 725.848 494.653z" fill="url(#SVGID_1_)" style="fill:url(#SVGID_1_);"/>
+  <g>
+   <path d="M725.848 494.653c-1.96112 4.12393-4.07367 8.17447-6.23932 12.1718c-2.00476 3.70047-4.06647 7.3685-6.14966 11.0252c-2.47089 4.34271-4.97052 8.66803-7.46869 12.995l0 0" fill="url(#SVGID_00000183240845231843681490000004035296114002882238_)" style="fill:url(#SVGID_00000183240845231843681490000004035296114002882238_);"/>
+  </g>
+  <g>
+   <path d="M362.952 596.091" fill="none" stroke-miterlimit="10" stroke="#000000" stroke-width="12" style="fill:none;stroke:#000000;stroke-width:12;stroke-miterlimit:10;"/>
+  </g>
+ </g>
+</svg>

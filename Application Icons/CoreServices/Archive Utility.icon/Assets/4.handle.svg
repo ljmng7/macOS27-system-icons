@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 361-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+ <g/>
+ <g id="handle">
+  <path clip-rule="evenodd" d="M583.259 244.148l-9.64136-154.261C571.584 57.3488 544.602 32 512 32h-0.0001221c-32.6016 0-59.5842 25.3488-61.6179 57.887l-9.64136 154.261C438.172 285.252 470.816 320 512 320h0.0001221C553.184 320 585.828 285.252 583.259 244.148zM512 282c-19.8823 0-36-16.1177-36-36s16.1177-36 36-36s36 16.1177 36 36S531.882 282 512 282z" fill="#DCDCDC" fill-rule="evenodd" style="fill-rule:evenodd;clip-rule:evenodd;fill:#DCDCDC;"/>
+ </g>
+</svg>

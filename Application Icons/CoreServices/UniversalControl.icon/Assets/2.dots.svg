@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 361-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+ <g/>
+ <g id="dots">
+  <path clip-rule="evenodd" d="M536 512c0 13.2548-10.7452 24-24 24s-24-10.7452-24-24s10.7452-24 24-24S536 498.745 536 512zM630 482c-16.5685 0-30 13.4315-30 30s13.4315 30 30 30s30-13.4315 30-30S646.569 482 630 482zM748 488c-13.2548 0-24 10.7452-24 24s10.7452 24 24 24s24-10.7452 24-24S761.255 488 748 488zM866 488c-13.2548 0-24 10.7452-24 24s10.7452 24 24 24s24-10.7452 24-24S879.255 488 866 488zM394 482c-16.5685 0-30 13.4315-30 30s13.4315 30 30 30s30-13.4315 30-30S410.569 482 394 482zM158 482c-16.5685 0-30 13.4315-30 30s13.4315 30 30 30s30-13.4315 30-30S174.569 482 158 482zM276 482c-16.5685 0-30 13.4315-30 30s13.4315 30 30 30s30-13.4315 30-30S292.569 482 276 482z" fill="#FFFFFF" fill-rule="evenodd" style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;"/>
+ </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 361-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+ <defs>
+  <linearGradient id="SVGID_1_" x1="699.48" y1="128.532" x2="1004.42" y2="471.089" gradientUnits="userSpaceOnUse">
+   <stop offset="0" stop-color="#e93368" stop-opacity="1"/>
+   <stop offset="0.491092" stop-color="#ea465e" stop-opacity="1"/>
+   <stop offset="1" stop-color="#eb6855" stop-opacity="1"/>
+  </linearGradient>
+ </defs>
+ <g/>
+ <g id="body.small.dark">
+  <g>
+   <polygon fill="#C42945" points="687.838 549.713 687.837 549.714 687.838 549.713 687.84 549.711" style="fill:#C42945;"/>
+   <path d="M816.479 167.796c-38.6675 4.49487-79.1467 13.7842-120.482 28.8123c-9.44165 3.43268-18.9275 7.16235-28.4468 11.2054c9.51929-4.04303 45.0823 3.67761 95.355 53.9501c50.2725 50.2725 57.3491 84.8774 53.2124 94.6174l0 0c4.13696-9.74023 35.6453-110.335 40.1545-148.75C858.972 184.628 839.485 165.122 816.479 167.796z" fill="url(#SVGID_1_)" style="fill:url(#SVGID_1_);"/>
+  </g>
+ </g>
+</svg>

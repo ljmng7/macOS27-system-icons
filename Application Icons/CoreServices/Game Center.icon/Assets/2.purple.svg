@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 361-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+ <defs>
+  <linearGradient id="SVGID_00000026149372512350522880000002707498047602666142_" x1="277.307" y1="670.055" x2="550.668" y2="670.055" gradientUnits="userSpaceOnUse">
+   <stop offset="0" stop-color="#fe46e1" stop-opacity="1"/>
+   <stop offset="1" stop-color="#da4a70" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="SVGID_1_" x1="484.674" y1="725.71" x2="289.493" y2="785.03" gradientUnits="userSpaceOnUse">
+   <stop offset="0" stop-color="#c53eb5" stop-opacity="1"/>
+   <stop offset="1" stop-color="#821bff" stop-opacity="1"/>
+  </linearGradient>
+ </defs>
+ <g/>
+ <g id="purple">
+  <circle cx="411.733" cy="747.878" fill="url(#SVGID_1_)" r="144.122" style="fill:url(#SVGID_1_);enable-background:new    ;"/>
+  <path d="M427.079 736.353c44.1074 0 85.9603-9.63483 123.589-26.8935c-16.8155-60.9434-72.6441-105.703-138.935-105.703c-61.2402 0-113.552 38.1998-134.426 92.0684C321.273 721.576 372.447 736.353 427.079 736.353z" fill="url(#SVGID_00000026149372512350522880000002707498047602666142_)" style="fill:url(#SVGID_00000026149372512350522880000002707498047602666142_);enable-background:new    ;"/>
+ </g>
+</svg>

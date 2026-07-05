@@ -1,0 +1,192 @@
+{
+  "features": [
+    "refractivity",
+    "specular-location"
+  ],
+  "fill": {
+    "linear-gradient": [
+      "gray:0.65000,1.00000",
+      "gray:0.60000,1.00000"
+    ],
+    "orientation": {
+      "start": {
+        "x": 0.5,
+        "y": 0.0
+      },
+      "stop": {
+        "x": 0.5,
+        "y": 1.0
+      }
+    },
+    "fill-specializations": [
+      {
+        "value": {
+          "linear-gradient": [
+            "gray:0.65000,1.00000",
+            "gray:0.60000,1.00000"
+          ],
+          "orientation": {
+            "start": {
+              "x": 0.5,
+              "y": 0.0
+            },
+            "stop": {
+              "x": 0.5,
+              "y": 1.0
+            }
+          }
+        }
+      },
+      {
+        "appearance": "dark",
+        "value": {
+          "linear-gradient": [
+            "gray:0.19200,1.00000",
+            "gray:0.07800,1.00000"
+          ],
+          "orientation": {
+            "start": {
+              "x": 0.5,
+              "y": 0.0
+            },
+            "stop": {
+              "x": 0.5,
+              "y": 1.0
+            }
+          }
+        }
+      }
+    ]
+  },
+  "groups": [
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "4.play.icon 2.svg",
+          "name": "4.play.icon 2",
+          "glass": true
+        },
+        {
+          "image-name": "6.capsule.svg",
+          "name": "6.capsule",
+          "glass": true
+        },
+        {
+          "image-name": "5.line 2.svg",
+          "name": "5.line 2",
+          "fill-specializations": [
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "gray:0.00000,1.00000"
+              }
+            }
+          ],
+          "glass": false
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 1.2
+      },
+      "blend-mode": "normal",
+      "lighting": "individual",
+      "specular": true,
+      "translucency": {
+        "enabled": true,
+        "value": 0
+      },
+      "blur-material": 0.5
+    },
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "3.ui.base 2.svg",
+          "name": "3.ui.base 2",
+          "fill-specializations": [
+            {
+              "value": {
+                "solid": "gray:1.00000,0.20000"
+              }
+            },
+            {
+              "appearance": "dark",
+              "value": {
+                "solid": "gray:1.00000,0.30000"
+              }
+            }
+          ],
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.6
+      },
+      "blend-mode": "normal",
+      "lighting": "individual",
+      "specular": "outside",
+      "translucency": {
+        "enabled": true,
+        "value": 0.2
+      },
+      "refractivity": {
+        "enabled": true,
+        "strength": 0.1585,
+        "depth": 0.1014
+      }
+    },
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "dvd.player4.png",
+          "name": "dvd.player4",
+          "position": {
+            "scale": 1.0,
+            "translation-in-points": [
+              -1.0,
+              -1.0
+            ]
+          },
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.6
+      },
+      "blend-mode-specializations": [
+        {
+          "value": "normal"
+        },
+        {
+          "appearance": "tinted",
+          "value": "plus-lighter"
+        }
+      ],
+      "lighting": "individual",
+      "specular-specializations": [
+        {
+          "value": "outside"
+        },
+        {
+          "appearance": "tinted",
+          "value": true
+        }
+      ],
+      "translucency": {
+        "enabled": true,
+        "value": 0
+      }
+    }
+  ],
+  "supported-platforms": {
+    "circles": [
+      "watchOS"
+    ],
+    "squares": "shared"
+  }
+}

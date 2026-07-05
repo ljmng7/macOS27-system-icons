@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 361-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+ <defs>
+  <linearGradient id="SVGID_1_" x1="637.196" y1="-1199.23" x2="502.578" y2="-1276.95" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1 0 0 -1 1024 -976.7201538)">
+   <stop offset="0" stop-color="#aaaaaa" stop-opacity="1"/>
+   <stop offset="0.0726448" stop-color="#bdbdbd" stop-opacity="1"/>
+   <stop offset="0.207153" stop-color="#dadada" stop-opacity="1"/>
+   <stop offset="0.341054" stop-color="#eeeeee" stop-opacity="1"/>
+   <stop offset="0.472838" stop-color="#fbfbfb" stop-opacity="1"/>
+   <stop offset="0.6" stop-color="#ffffff" stop-opacity="1"/>
+   <stop offset="0.720525" stop-color="#fcfcfc" stop-opacity="1"/>
+   <stop offset="0.799503" stop-color="#f4f4f4" stop-opacity="1"/>
+   <stop offset="0.866558" stop-color="#e5e5e5" stop-opacity="1"/>
+   <stop offset="0.926921" stop-color="#cfcfcf" stop-opacity="1"/>
+   <stop offset="0.98232" stop-color="#b4b4b4" stop-opacity="1"/>
+   <stop offset="1" stop-color="#aaaaaa" stop-opacity="1"/>
+  </linearGradient>
+ </defs>
+ <g/>
+ <g id="scroll.top">
+  <path d="M298.152 377.856c1.96106-4.12399 4.07364-8.1745 6.23938-12.1719c2.00479-3.7005 4.06647-7.36844 6.14963-11.0251c2.47089-4.34271 4.97043-8.66806 7.46869-12.995h-9.16e-05l109.226-189.185c12.9814-22.4844 24.8278-40.4821 48.9747-50.4888c21.7089-9.00478 46.8739-7.33092 67.3335 4.48138c20.4596 11.8124 34.4917 32.769 37.5477 56.0719c3.40753 25.9152-6.2558 45.1732-19.2372 67.6577L444.108 434.143c-0.747131 1.29413-2.12796 2.09137-3.62222 2.09143c-2.4147 6.1e-05-4.33063-2.03918-4.16931-4.44849c1.91702-28.6371-12.1665-57.2401-38.701-72.5597c0 0-9.16e-05 0-9.16e-05-0.0001221C363.933 339.779 321.744 348.41 298.152 377.856z" fill="url(#SVGID_1_)" style="fill:url(#SVGID_1_);"/>
+ </g>
+</svg>

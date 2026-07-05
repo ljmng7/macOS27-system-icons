@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 361-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+ <defs>
+  <linearGradient id="SVGID_00000178895645691431775710000001869170766507389631_" x1="688.975" y1="454.291" x2="486.841" y2="713.696" gradientUnits="userSpaceOnUse">
+   <stop offset="0.0007301" stop-color="#7e0ef8" stop-opacity="1"/>
+   <stop offset="1" stop-color="#7e52f8" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="SVGID_1_" x1="425.394" y1="138.236" x2="428.713" y2="731.817" gradientUnits="userSpaceOnUse">
+   <stop offset="0.257774" stop-color="#ed7168" stop-opacity="1"/>
+   <stop offset="0.526228" stop-color="#ea517e" stop-opacity="1"/>
+   <stop offset="1" stop-color="#ff348f" stop-opacity="1"/>
+  </linearGradient>
+ </defs>
+ <g/>
+ <g id="pink">
+  <circle cx="427.079" cy="439.558" fill="url(#SVGID_1_)" r="296.795" style="fill:url(#SVGID_1_);enable-background:new    ;"/>
+  <path d="M722.217 470.999c-15.3568-3.82623-31.4189-5.86945-47.9601-5.86945c-109.211 0-197.744 88.5328-197.744 197.743c0 23.5801 4.13538 46.1925 11.707 67.1617C612.802 703.943 708.66 599.741 722.217 470.999z" fill="url(#SVGID_00000178895645691431775710000001869170766507389631_)" style="fill:url(#SVGID_00000178895645691431775710000001869170766507389631_);enable-background:new    ;"/>
+ </g>
+</svg>

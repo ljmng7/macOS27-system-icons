@@ -1,0 +1,237 @@
+{
+  "fill": {
+    "linear-gradient": [
+      "display-p3:0.00000,0.23500,0.33700,1.00000",
+      "srgb:0.00000,0.15700,0.19600,1.00000"
+    ],
+    "orientation": {
+      "start": {
+        "x": 0.5,
+        "y": 0.0
+      },
+      "stop": {
+        "x": 0.5,
+        "y": 1.0
+      }
+    },
+    "fill-specializations": [
+      {
+        "value": {
+          "linear-gradient": [
+            "display-p3:0.00000,0.23500,0.33700,1.00000",
+            "srgb:0.00000,0.15700,0.19600,1.00000"
+          ],
+          "orientation": {
+            "start": {
+              "x": 0.5,
+              "y": 0.0
+            },
+            "stop": {
+              "x": 0.5,
+              "y": 1.0
+            }
+          }
+        }
+      },
+      {
+        "appearance": "dark",
+        "value": {
+          "linear-gradient": [
+            "gray:0.19200,1.00000",
+            "gray:0.07800,1.00000"
+          ],
+          "orientation": {
+            "start": {
+              "x": 0.5,
+              "y": 0.0
+            },
+            "stop": {
+              "x": 0.5,
+              "y": 1.0
+            }
+          }
+        }
+      }
+    ]
+  },
+  "groups": [
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "9.ring.front.svg",
+          "name": "9.ring.front",
+          "fill": {
+            "solid": "srgb:1.00000,1.00000,1.00000,1.00000"
+          },
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.5
+      },
+      "blend-mode": "normal",
+      "lighting": "individual",
+      "specular": true,
+      "translucency": {
+        "enabled": true,
+        "value": 0.1
+      },
+      "blur-material": 0.5
+    },
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "8.ticket.front.details.svg",
+          "name": "8.ticket.front.details",
+          "fill": {
+            "solid": "srgb:1.00000,1.00000,1.00000,1.00000"
+          },
+          "blend-mode-specializations": [
+            {
+              "value": "screen"
+            },
+            {
+              "appearance": "tinted",
+              "value": "plus-lighter"
+            }
+          ],
+          "opacity-specializations": [
+            {
+              "value": 0.5
+            },
+            {
+              "appearance": "tinted",
+              "value": 0.2
+            }
+          ],
+          "glass": false
+        },
+        {
+          "image-name": "7.ticket.front.svg",
+          "name": "7.ticket.front",
+          "fill-specializations": [
+            {
+              "value": {
+                "solid": "srgb:0.98000,0.68600,0.00000,1.00000"
+              }
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "srgb:1.00000,1.00000,1.00000,1.00000"
+              }
+            }
+          ],
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.5
+      },
+      "blend-mode": "normal",
+      "lighting": "individual",
+      "specular": true,
+      "translucency": {
+        "enabled": true,
+        "value": 0.4
+      },
+      "blur-material": 0.5
+    },
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "6.ticket.middle.details.svg",
+          "name": "6.ticket.middle.details",
+          "fill": {
+            "solid": "srgb:1.00000,1.00000,1.00000,1.00000"
+          },
+          "blend-mode": "screen",
+          "opacity-specializations": [
+            {
+              "value": 0.5
+            },
+            {
+              "appearance": "tinted",
+              "value": 0.75
+            }
+          ],
+          "glass": false
+        },
+        {
+          "image-name": "5.ticket.middle.svg",
+          "name": "5.ticket.middle",
+          "fill": {
+            "solid": "srgb:0.58800,0.78400,0.86300,1.00000"
+          },
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.5
+      },
+      "blend-mode": "normal",
+      "lighting": "individual",
+      "specular": true,
+      "translucency": {
+        "enabled": true,
+        "value": 0.4
+      },
+      "blur-material": 0.5
+    },
+    {
+      "hidden": false,
+      "layers": [
+        {
+          "image-name": "4.ticket.back.details.svg",
+          "name": "4.ticket.back.details",
+          "fill": {
+            "solid": "srgb:1.00000,1.00000,1.00000,1.00000"
+          },
+          "blend-mode": "screen",
+          "opacity-specializations": [
+            {
+              "value": 0.5
+            },
+            {
+              "appearance": "tinted",
+              "value": 0.75
+            }
+          ],
+          "glass": false
+        },
+        {
+          "image-name": "3.ticket.back.svg",
+          "name": "3.ticket.back",
+          "fill": {
+            "solid": "srgb:0.00000,0.62700,0.86300,1.00000"
+          },
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.5
+      },
+      "blend-mode": "normal",
+      "lighting": "individual",
+      "specular": true,
+      "translucency": {
+        "enabled": true,
+        "value": 0.4
+      },
+      "blur-material": 0.5
+    }
+  ],
+  "supported-platforms": {
+    "circles": [
+      "watchOS"
+    ],
+    "squares": "shared"
+  }
+}

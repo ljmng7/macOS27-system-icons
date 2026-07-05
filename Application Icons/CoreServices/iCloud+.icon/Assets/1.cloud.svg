@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 361-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+ <defs>
+  <linearGradient id="SVGID_1_" x1="103.792" y1="492.114" x2="908.161" y2="492.114" gradientUnits="userSpaceOnUse">
+   <stop offset="0" stop-color="#a1e1ff" stop-opacity="1"/>
+   <stop offset="0.5" stop-color="#66bbf9" stop-opacity="1"/>
+   <stop offset="1" stop-color="#4781ff" stop-opacity="1"/>
+  </linearGradient>
+ </defs>
+ <g/>
+ <g id="cloud">
+  <path d="M264 758c-87.261 0-158-70.739-158-158c0-64.7753 38.9851-120.436 94.7673-144.826c-0.202637-2.85077-0.311706-5.72736-0.311706-8.6297c0-66.2729 53.7248-119.998 119.998-119.998c19.9116 0 38.6873 4.85504 55.2167 13.4377c36.4905-67.7245 108.056-113.756 190.378-113.756c119.359 0 216.118 96.7593 216.118 216.118c0 0.497742-0.0155029 0.99176-0.0188599 1.48871C857.946 455.459 916 520.95 916 600c0 87.261-70.739 158-158 158H264z" fill="url(#SVGID_1_)" style="fill:url(#SVGID_1_);"/>
+ </g>
+</svg>

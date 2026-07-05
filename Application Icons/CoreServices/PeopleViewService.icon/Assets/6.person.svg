@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 361-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+ <g/>
+ <g id="person">
+  <path d="M314 430c0-77.3199 59.9938-140 134-140s134 62.6801 134 140s-59.9938 140-134 140S314 507.32 314 430zM448 631.335c-94.2802 0-180.276 35.454-245.396 93.7509C262.191 793.648 350.031 837 448 837s185.809-43.3521 245.396-111.915C628.277 666.789 542.28 631.335 448 631.335z" fill="#FFFFFF" style="fill:#FFFFFF;"/>
+ </g>
+</svg>

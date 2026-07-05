@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generator: Apple Native CoreSVG 361-->
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+ <title>WidgetKit Simulator</title>
+ <g fill="none" fill-rule="evenodd" id="WidgetKit-Simulator" stroke="none" stroke-width="1">
+  <g id="Widgets" transform="translate(180, 182)">
+   <g id="Stack-5" transform="translate(0, 1)">
+    <path d="M115.375 356L548.625 356C588.744 356 603.291 360.177 617.958 368.021C632.625 375.865 644.135 387.375 651.979 402.042C659.823 416.709 664 431.256 664 471.375L664 548.625C664 588.744 659.823 603.291 651.979 617.958C644.135 632.625 632.625 644.135 617.958 651.979C603.291 659.823 588.744 664 548.625 664L115.375 664C75.2565 664 60.7086 659.823 46.0419 651.979C31.3753 644.135 19.8648 632.625 12.021 617.958C4.17715 603.291 0 588.744 0 548.625L0 471.375C0 431.256 4.17715 416.709 12.021 402.042C19.8648 387.375 31.3753 375.865 46.0419 368.021C60.7086 360.177 75.2565 356 115.375 356Z" fill="#191E32" fill-rule="evenodd" id="Rectangle-2-Copy"/>
+    <g id="Stack-4"/>
+   </g>
+  </g>
+ </g>
+</svg>
