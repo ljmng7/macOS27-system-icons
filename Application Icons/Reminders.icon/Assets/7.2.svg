@@ -5,8 +5,7 @@ PUBLIC "-//W3C//DTD SVG 1.1//EN"
        "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
  <g/>
- <g id="bullets.surround2">
-  <path d="M198 426c-47.4207 0-86 38.5796-86 86s38.5793 86 86 86s86-38.5796 86-86S245.421 426 198 426z" fill="#FF5542" style="fill:#FF5542;"/>
-  <path d="M198 426c-47.4207 0-86 38.5796-86 86s38.5793 86 86 86s86-38.5796 86-86S245.421 426 198 426z" fill="#FF5542" style="fill:#FF5542;"/>
+ <g id="_x32_">
+  <path d="M209 464c-26.4673 0-48 21.5328-48 48c0 26.4672 21.5327 48 48 48s48-21.5328 48-48C257 485.533 235.467 464 209 464z" fill="#FFFFFF" style="fill:#FFFFFF;"/>
  </g>
 </svg>
